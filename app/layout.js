@@ -1,15 +1,15 @@
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
+import { Albert_Sans } from 'next/font/google'
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
+import '@/styles/global.css'
+import Header from "@/components/layout/header";
+import Footer from "@/components/layout/footer";
+import HeaderMobileWrapper from "@/components/wrapper/layout/headerMobile";
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+const albertSans = Albert_Sans({
+  subsets: ['latin'],
+  weights: ['400', '500', '700'],
+})
+
 
 export const metadata = {
   title: "Create Next App",
@@ -18,11 +18,19 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+    <html lang="en" className={albertSans.className}>
+      <body>
+
+        {/* Desktop Header */}
+        <div className="hidden lg:block">
+          <Header />
+        </div>
+
+        {/* Mobile Header */}
+        <HeaderMobileWrapper />
+
         {children}
+        <Footer />
       </body>
     </html>
   );

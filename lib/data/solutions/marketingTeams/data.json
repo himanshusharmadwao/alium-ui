@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Marketing Teams",
+    "subheading": "Reimagine your brand experience by empowering customers.",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaKey",
+          "title": "B2C Brands",
+          "subtitle": "Engage & Convert"
+        },
+        {
+          "icon": "FaBuilding",
+          "title": "Agencies",
+          "subtitle": "Scale Campaign Success"
+        }
+      ],
+      "analytics": {
+        "title": "Engagement Growth",
+        "subtitle": "+142% campaign lift this quarter",
+        "progress": 0.8,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Empower Smarter Marketing Decisions",
+    "description": "Alium helps marketing teams understand customer intent, improve funnel performance, and create experiences that inspire action.",
+    "cards": [
+      {
+        "icon": "FaBullseye",
+        "title": "Target Customers Intelligently",
+        "subtitle": "Ask the right questions at the right time",
+        "description": "Leverage real-time insights to engage audiences precisely when it matters most—turning awareness into meaningful interaction.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Increase Conversions & Revenue",
+        "subtitle": "Fix pain points in your funnels",
+        "description": "Identify and address drop-offs across your campaigns, from ad clicks to checkout, ensuring every touchpoint drives measurable growth.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaHeart",
+        "title": "Build Brand Loyalty & Retention",
+        "subtitle": "Go beyond post-purchase",
+        "description": "Capture authentic feedback after conversion to refine your messaging, strengthen relationships, and nurture long-term loyalty.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Data-Driven Campaigns",
+    "heading": "Turn Every Interaction into Marketing Intelligence",
+    "description": "Alium equips marketing teams with flexible tools to understand audience behavior, improve messaging, and optimize campaign results.",
+    "points": [
+      {
+        "title": "Map the Customer Journey",
+        "text": "Use targeted surveys to capture feedback at critical points—such as cart abandonment or campaign exits—to understand and resolve friction."
+      },
+      {
+        "title": "Ensure Emails Send the Right Message",
+        "text": "Analyze your email marketing performance, measure post-purchase sentiment, and refine your communications with data-backed insights."
+      },
+      {
+        "title": "Integrate Your Suite & Analyze KPIs",
+        "text": "Push Voice of Customer data into your marketing stack—from Adobe Marketing Cloud to Optimizely—and run powerful A/B tests using unified insights."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Marketing analytics dashboard with customer insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "GIVE YOUR CUSTOMERS A VOICE",
+    "title": "Engage Customers to Build a Stronger Brand",
+    "description": "Your customers shape your brand’s success. With Alium’s Voice of Customer suite, capture how users experience your website, content, or app to understand what drives or blocks conversions. Move beyond assumptions—run smarter A/B tests, refine messaging, and optimize every marketing touchpoint. Integrate these insights into your analytics to improve landing pages, communication, and checkout journeys, ultimately increasing engagement and revenue."
+  },
+  "cta": {
+    "heading": "Ready to Elevate Your Marketing Experience?",
+    "subheading": "Join forward-thinking marketing teams using Alium to engage customers, refine journeys, and drive consistent growth.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

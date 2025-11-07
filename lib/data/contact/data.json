@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help and answer any question you might have. We look forward to hearing from you.",
+    "backgroundDecor": {
+      "circles": [
+        { "position": "bottom-left", "style": "w-48 h-48 bg-primary/10 rounded-full" },
+        { "position": "top-right", "style": "w-64 h-64 border-8 border-primary/10 rounded-2xl transform rotate-12" }
+      ]
+    }
+  },
+  "contactSection": {
+    "heading": "Contact Information",
+    "description": "Fill up the form and our team will get back to you within 24 hours.",
+    "contactInfo": [
+      {
+        "icon": "FaEnvelope",
+        "title": "hello@alium.co.in",
+        "subtitle": "General Inquiries"
+      },
+      {
+        "icon": "FaPhone",
+        "title": "+91 7042855662",
+        "subtitle": "Mon-Fri, 9am-5pm EST"
+      },
+      {
+        "icon": "FaMapMarkerAlt",
+        "title": "Sector 19, Dwarka, New Delhi",
+        "subtitle": "A-4, second Floor, Delhi 110075"
+      }
+    ],
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7012.738253727226!2d77.082022!3d28.498540000000013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1b1635af1415%3A0xf69ecace9edc0ebe!2sDWAO!5e0!3m2!1sen!2sin!4v1761657954111!5m2!1sen!2sin"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Have questions? We've got answers. If you can't find what you're looking for, feel free to contact us.",
+    "items": [
+      {
+        "question": "What is Alium and what does it do?",
+        "answer": "Alium is a comprehensive platform designed to streamline your project lifecycle from idea to launch. It offers tools for collaboration, development, and deployment, all in one place."
+      },
+      {
+        "question": "How does the free trial work?",
+        "answer": "Our 14-day free trial gives you full access to all features on our Pro plan. No credit card is required to start. At the end of the trial, you can choose a plan or move to our free plan."
+      },
+      {
+        "question": "Can I integrate Alium with other tools?",
+        "answer": "Yes! Alium supports hundreds of integrations with popular tools like Slack, GitHub, Jira, and more. You can connect your favorite apps to create a seamless workflow."
+      }
+    ]
+  }
+}

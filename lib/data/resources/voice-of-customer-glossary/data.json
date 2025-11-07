@@ -1,0 +1,86 @@
+{
+    "title": "The ABC of Voice of Customer",
+    "description": "We know that the digital jargon can be pretty overwhelming… VOC, UX, CX, NPS. What do they mean? What’s the difference? If you’re wondering the same, you’ve come to the right place. The ABC of Voice of Customer is a collection of Alium, Customer Experience and Voice of Customer definitions that will help you to improve your understanding of the digital environment.",
+    "glossary": [
+        {
+            "term": "Usability",
+            "definition": "According to the International Standards Organization (ISO 9241), usability is the extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use. In other words, good usability implies that users can easily use a product and by doing so reach their goals quickly and without meeting friction. Some aspects of usability overlap with the user experience (UX) of a system, meaning good usability should also include a good user experience."
+        },
+        {
+            "term": "User Experience (UX)",
+            "definition": "UX is the subjective feeling a user gets when using a product, system, or service. User experiences are drawn from a user’s individual perception of different aspects of the experience such as appeal, information content, accessibility, credibility, relevance, and ease of use. A greater site experience makes it more enticing to users. UX designers enhance marketability, branding, and usability through visual design."
+        },
+        {
+            "term": "User Interface (UI)",
+            "definition": "The UI is the interface of any machine or system the end user interacts with. Through the user interface, users operate the system and receive feedback on success or failure. To meet good usability and user experience standards, a UI must be usable, intuitive, and engaging."
+        },
+        {
+            "term": "User-Centered Design (UCD)",
+            "definition": "User-Centered Design (UCD) is a development process that keeps the end user as the main focus. It starts with analyzing user needs, expectations, and limitations, and involves iterative testing and validation to ensure the final design meets user requirements."
+        },
+        {
+            "term": "Voice of Customer (VoC)",
+            "definition": "Voice of the Customer (VoC) is the process of collecting insights into customers’ wants and needs through their own words. It links customer expectations to business performance and can be captured through surveys, chats, emails, phone calls, and social media. Insights help bridge gaps between customer expectations and business offerings."
+        },
+        {
+            "term": "Customer-Centricity",
+            "definition": "Customer-centric companies focus on understanding and fulfilling customer needs. They design products and experiences that exceed expectations and use customer insights for continuous improvement. Centralized customer relationship management is vital to align all departments around customer value."
+        },
+        {
+            "term": "Customer Experience (CX)",
+            "definition": "Customer Experience (CX) is how customers perceive their interactions with an organization throughout their journey. CX aims to exceed expectations, driving satisfaction, loyalty, and advocacy. Exceptional CX differentiates brands, boosts revenue, and builds competitive advantage."
+        },
+        {
+            "term": "Omnichannel Experience",
+            "definition": "The omnichannel experience connects customers seamlessly across multiple channels to create a consistent and unified journey. It aligns departments, goals, and design across all touchpoints and devices to ensure continuity and customer satisfaction."
+        },
+        {
+            "term": "Customer Journey",
+            "definition": "The customer journey represents all experiences customers have while interacting with an organization—from awareness to engagement and purchase. It maps the full journey across multiple touchpoints to identify friction and opportunities."
+        },
+        {
+            "term": "Digital Customer Experience (DCX)",
+            "definition": "Digital Customer Experience (DCX) covers all customer interactions through digital interfaces such as websites, apps, and devices. The quality of these digital touchpoints directly impacts customer perception, conversion rates, and brand reputation."
+        },
+        {
+            "term": "User Feedback",
+            "definition": "User Feedback includes qualitative or quantitative reactions from customers about their experience with a brand. It can be solicited or unsolicited and provides the foundation for deriving actionable customer insights."
+        },
+        {
+            "term": "Surveys",
+            "definition": "Surveys are data collection tools used to gather feedback and insights from a sample of participants. They help validate assumptions, identify trends, and improve understanding of customer behavior to enhance satisfaction."
+        },
+        {
+            "term": "Omnichannel Feedback",
+            "definition": "Omnichannel feedback is collected from customers across multiple channels, creating a holistic view of their experiences. It helps brands understand customers deeply and ensure consistency throughout the journey."
+        },
+        {
+            "term": "Real-time Feedback",
+            "definition": "Real-time feedback allows users to share opinions about specific digital elements instantly. It helps organizations detect issues early, improve user experience, and prevent potential revenue loss."
+        },
+        {
+            "term": "Net Promoter Score (NPS)",
+            "definition": "Net Promoter Score (NPS) measures customer loyalty by asking how likely they are to recommend your brand on a 0–10 scale. Scores 0–6 are Detractors, 7–8 are Passives, and 9–10 are Promoters."
+        },
+        {
+            "term": "Customer Satisfaction Score (CSAT)",
+            "definition": "Customer Satisfaction Score (CSAT) evaluates satisfaction after specific interactions using a 1–10 scale. It measures the quality of customer experience at different points along the journey."
+        },
+        {
+            "term": "Customer Effort Score (CES)",
+            "definition": "Customer Effort Score (CES) assesses how easy it is for customers to complete an interaction. Typically measured by asking, 'How easy was it to solve your problem today?' on a scale from 1 (low effort) to 5 (high effort)."
+        },
+        {
+            "term": "Customer Retention",
+            "definition": "Customer retention measures a company’s ability to keep customers over time. It reflects satisfaction and loyalty, with retention often being more cost-effective than acquisition. Loyalty programs help increase lifetime value."
+        },
+        {
+            "term": "Customer Loyalty",
+            "definition": "Customer loyalty results from repeated positive experiences with a brand. Loyal customers purchase frequently, spend more, and promote the brand through word of mouth."
+        },
+        {
+            "term": "Customer Insights",
+            "definition": "Customer insights are deep understandings of customer behavior, needs, and motivations derived from analyzing feedback and data. They inform strategic decisions and drive personalized experiences."
+        }
+    ]
+}

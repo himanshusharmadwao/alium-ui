@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Analysts & Researchers",
+    "subheading": "Enhance your research data with actionable customer insights.",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaKey",
+          "title": "Data Teams",
+          "subtitle": "Insight-Driven"
+        },
+        {
+          "icon": "FaBuilding",
+          "title": "Researchers",
+          "subtitle": "Evidence-Based"
+        }
+      ],
+      "analytics": {
+        "title": "Insight Growth",
+        "subtitle": "+132% more actionable findings this quarter",
+        "progress": 0.78,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Turn Research into Real-World Impact",
+    "description": "Alium empowers analysts and researchers to enrich their data with contextual insights that reveal the 'why' behind customer behavior.",
+    "cards": [
+      {
+        "icon": "FaSearch",
+        "title": "Dissect and Discover New Insights",
+        "subtitle": "Use qualitative data to supplement your research",
+        "description": "Combine qualitative and quantitative findings to uncover deeper motivations and patterns hidden within your datasets.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Analyze Customer Behavior",
+        "subtitle": "Get a full picture of the customer journey",
+        "description": "Map how customers interact across touchpoints to identify key trends, friction areas, and behavioral shifts that shape their decisions.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaCheckCircle",
+        "title": "Validate Assumptions",
+        "subtitle": "Track and analyze KPIs to validate your projects",
+        "description": "Use data visualization and KPI tracking to confirm hypotheses, validate strategies, and ensure research outcomes align with goals.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Research Intelligence",
+    "heading": "Enrich Your Research with Real Customer Context",
+    "description": "Alium connects behavioral data with customer feedback, helping researchers uncover the 'why' behind every metric.",
+    "points": [
+      {
+        "title": "Measure Impact in a Variety of Ways",
+        "text": "Define the parameters of your research with precise targeting. Track trendlines, KPIs, and sentiment data to measure success and identify patterns over time."
+      },
+      {
+        "title": "Recruit Users for Market Research",
+        "text": "Design flexible surveys for in-depth market studies and recruit participants for focus groups. Customize every variable to capture meaningful, actionable insights."
+      },
+      {
+        "title": "Integrate with Your Digital Analytics",
+        "text": "Push Voice of Customer data into platforms like Google Analytics or Adobe Omniture. Export insights easily with the Alium API to enrich reports and dashboards."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1517142089942-ba376ce32a2e?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Analytics dashboard visualizing customer research insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "OPTIMIZE YOUR CUSTOMER RESEARCH",
+    "title": "Discover What Matters Most in Your Insights",
+    "description": "Transform your research practice with Alium’s solution suite. Combine customer feedback with behavioral data to uncover key trends and actionable insights. Simplify analysis with flexible integrations and benchmarking tools that bring your customer journey to life. Identify what drives satisfaction and where opportunities lie. With Alium Reporting, empower your stakeholders with clear, consultative insights that guide impactful decisions."
+  },
+  "cta": {
+    "heading": "Ready to Elevate Your Research with Alium?",
+    "subheading": "Join analysts and researchers using Alium to enrich their findings, validate hypotheses, and uncover deeper customer insights.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

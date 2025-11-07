@@ -1,0 +1,133 @@
+{
+  "hero": {
+    "heading": "Understand What Your Visitors Really Think",
+    "text": "With Alium In-Page, transform your website content into a source of live insights. Collect feedback directly within your pages, discover what resonates, and make every section of your site more engaging and effective.",
+    "buttonText": "Improve My Website",
+    "buttonLink": "/contact",
+    "image": "/images/alium-inpage-hero.png"
+  },
+  "offerings": {
+    "heading": "Feedback Integrated Into Your Content",
+    "description": "Alium In-Page transforms static content into interactive experiences. Empower your visitors to share real-time thoughts on what works, what doesn’t, and how you can improve — all without disrupting the browsing experience.",
+    "items": [
+      {
+        "icon": "FaChartLine",
+        "title": "Content Feedback Analytics",
+        "text": "Discover what your visitors think of your content and optimize based on real, contextual feedback. Eliminate guesswork and focus on what truly matters."
+      },
+      {
+        "icon": "FaUserFriends",
+        "title": "Increase Customer Loyalty",
+        "text": "Build stronger relationships by understanding your visitors’ needs. Deliver the experience they expect and turn one-time visitors into loyal fans."
+      }
+    ]
+  },
+  "useCasesData": {
+    "heading": "Features That Help You Listen, Learn, and Improve",
+    "subheading": "Alium In-Page brings feedback collection to the next level — embedded directly within your website content.",
+    "items": [
+      {
+        "tag": "Detailed, Intuitive Analysis",
+        "heading": "Optimize Based on Real Content Performance",
+        "description": "Collect insights on specific paragraphs, images, or sections to understand what truly engages your audience. Your feedback widget sits seamlessly within the page, giving you a contextual view of visitor opinions.",
+        "points": [
+          {
+            "title": "Granular Insights",
+            "text": "Get feedback on exact content areas for precision improvements."
+          },
+          {
+            "title": "Real-Time Context",
+            "text": "See how visitors interact and what triggers their feedback."
+          },
+          {
+            "title": "Performance Tracking",
+            "text": "Identify which content drives the most engagement."
+          }
+        ],
+        "image": {
+          "src": "/images/inpage-analysis.png",
+          "alt": "Detailed In-Page Feedback Analysis"
+        },
+        "reverse": false
+      },
+      {
+        "tag": "Custom Feedback Widget",
+        "heading": "Create Your Own Feedback Experience",
+        "description": "Design interactive, conditional surveys that adapt to your users’ behavior. Alium’s drag-and-drop widget builder makes it easy to create beautiful, on-brand experiences.",
+        "points": [
+          {
+            "title": "Full Design Control",
+            "text": "Customize colors, fonts, and layout to fit your site’s branding."
+          },
+          {
+            "title": "Conditional Logic",
+            "text": "Show follow-up questions based on user responses."
+          },
+          {
+            "title": "Effortless Setup",
+            "text": "Publish widgets instantly — no developer needed."
+          }
+        ],
+        "image": {
+          "src": "/images/inpage-widget.png",
+          "alt": "Custom Feedback Widget Design"
+        },
+        "reverse": true
+      },
+      {
+        "tag": "Smart Integration",
+        "heading": "Integrate Like a Pro",
+        "description": "Alium In-Page embeds directly into your content areas for seamless data flow. Connect with your analytics or CRM tools to unify insights across channels.",
+        "points": [
+          {
+            "title": "Plug-and-Play Setup",
+            "text": "Add your widget anywhere with a simple script tag."
+          },
+          {
+            "title": "Cross-Platform Compatibility",
+            "text": "Works flawlessly across CMS platforms and frameworks."
+          },
+          {
+            "title": "Data Sync",
+            "text": "Integrate feedback into analytics or customer profiles."
+          }
+        ],
+        "image": {
+          "src": "/images/inpage-integration.png",
+          "alt": "In-Page Feedback Integration"
+        },
+        "reverse": false
+      },
+      {
+        "tag": "Insightful Reporting",
+        "heading": "Turn Every Response Into an Actionable Insight",
+        "description": "Alium’s visual dashboard helps you monitor engagement, identify key issues, and prioritize improvements. Go beyond the ‘what’ — understand the ‘why’.",
+        "points": [
+          {
+            "title": "Visual Reports",
+            "text": "Get interactive dashboards for quick understanding."
+          },
+          {
+            "title": "Data Filtering",
+            "text": "Segment feedback by page, device, or visitor type."
+          },
+          {
+            "title": "Export & Integrate",
+            "text": "Easily share insights or connect with other tools."
+          }
+        ],
+        "image": {
+          "src": "/images/inpage-reporting.png",
+          "alt": "In-Page Reporting Dashboard"
+        },
+        "reverse": true
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Make Every Page Speak for Itself",
+    "subheading": "Turn your content into a live feedback engine. Start collecting contextual insights today and create a site your visitors truly love.",
+    "buttonText": "Contact Us",
+    "buttonLink": "/contact"
+  }
+}

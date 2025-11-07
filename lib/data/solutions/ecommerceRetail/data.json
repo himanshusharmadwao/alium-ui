@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Ecommerce and Retail",
+    "subheading": "Increase conversions and improve customer loyalty",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaChartLine",
+          "title": "Improve Conversions",
+          "subtitle": "Reduce cart abandonment"
+        },
+        {
+          "icon": "FaBullseye",
+          "title": "Intelligent Targeting",
+          "subtitle": "Engage the right users at the right time"
+        }
+      ],
+      "analytics": {
+        "title": "Conversion Growth",
+        "subtitle": "+78% engagement on targeted campaigns this quarter",
+        "progress": 0.8,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Optimize Every Step of the Customer Journey",
+    "description": "Alium helps ecommerce and retail brands increase conversions, improve loyalty, and deliver seamless shopping experiences across all channels.",
+    "cards": [
+      {
+        "icon": "FaChartLine",
+        "title": "Improve Conversions",
+        "subtitle": "Reduce friction in the buying process",
+        "description": "Analyze shopping behaviors to decrease cart abandonment and increase purchase completion across your digital channels.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaBullseye",
+        "title": "Intelligent Targeting",
+        "subtitle": "Ask the right questions at the right time",
+        "description": "Target users with surveys and interactions based on behavior, demographics, and specific pages to gain actionable insights.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaHeart",
+        "title": "Drive Customer Loyalty",
+        "subtitle": "Engage and retain customers",
+        "description": "Use cross-platform campaigns to engage customers, increase retention, and foster long-term loyalty.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Ecommerce Intelligence",
+    "heading": "Create Exceptional Shopping Experiences",
+    "description": "Alium empowers retail brands to understand customer behavior, identify friction points, and optimize interactions to increase conversions and loyalty.",
+    "points": [
+      {
+        "title": "Optimize for Omni-Channel",
+        "text": "Ensure a consistent brand experience across all touchpoints by identifying and addressing pain points throughout the customer journey."
+      },
+      {
+        "title": "Respond to Urgent Bugs",
+        "text": "Instant notifications and automated labeling ensure issues are resolved quickly, maintaining a smooth and reliable shopping experience."
+      },
+      {
+        "title": "Innovate and Track",
+        "text": "Continuously test and improve experiences with Alium’s insights, enabling rapid iteration and optimization in a competitive retail landscape."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1581091215366-8f929f07ef1b?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Ecommerce dashboard showing customer behavior and insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "CREATE MEMORABLE USER EXPERIENCES",
+    "title": "Put Your Customers at the Center of Your Strategy",
+    "description": "Retailers need to deliver smooth, consistent experiences across all devices and channels. Alium enables targeted surveys, behavioral insights, and NPS collection to understand user behavior, identify drop-offs, and optimize the buying journey, driving conversions and long-term loyalty."
+  },
+  "cta": {
+    "heading": "Ready to Elevate Your Ecommerce Experience?",
+    "subheading": "Join leading retailers using Alium to increase conversions, improve retention, and optimize every customer interaction.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

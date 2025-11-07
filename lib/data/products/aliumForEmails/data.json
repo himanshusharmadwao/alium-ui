@@ -1,0 +1,157 @@
+{
+  "hero": {
+    "heading": "Make Sure Your Emails Are Sending the Right Message",
+    "text": "Transform every campaign into a two-way conversation. With Alium for Email, collect real-time feedback directly from your subscribers — learn why they’re not clicking, what they love, and how you can optimize every send for better engagement and conversions.",
+    "buttonText": "Improve My Emails",
+    "buttonLink": "/contact",
+    "image": "/images/alium-email-hero.png"
+  },
+  "offerings": {
+    "heading": "Turn Data Collection Into an Experience",
+    "description": "Stop treating emails as one-way communication. Alium turns your inbox campaigns into interactive experiences that collect valuable insights — right from your subscribers’ inboxes.",
+    "items": [
+      {
+        "icon": "FaEnvelopeOpenText",
+        "title": "Increase Email Subscribers",
+        "text": "Stop guessing what your contacts want — deliver more relevant content that your audience actually wants to open and engage with."
+      },
+      {
+        "icon": "FaSmileBeam",
+        "title": "Improve Customer Satisfaction",
+        "text": "Get qualitative feedback straight from your recipients to discover what keeps them happiest and most loyal to your brand."
+      }
+    ]
+  },
+  "useCasesData": {
+    "heading": "Features That Power Smarter Email Conversations",
+    "subheading": "Alium for Email helps you listen, learn, and act on subscriber feedback — all within the inbox.",
+    "items": [
+      {
+        "tag": "Full Customization",
+        "heading": "Manage Visibility With Complete Control",
+        "description": "Design personalized widgets that perfectly match your emails and branding. Create and style feedback forms straight from your Alium dashboard, and start capturing insights in just a few clicks.",
+        "points": [
+          {
+            "title": "Custom Design Freedom",
+            "text": "Match colors, styles, and tone to your email templates."
+          },
+          {
+            "title": "Effortless Setup",
+            "text": "Launch widgets instantly — no developer needed."
+          },
+          {
+            "title": "Seamless Integration",
+            "text": "Embed feedback forms into any email platform."
+          }
+        ],
+        "image": {
+          "src": "/images/email-customization.png",
+          "alt": "Custom Email Feedback Widget"
+        },
+        "reverse": false
+      },
+      {
+        "tag": "Optimize Your Communication",
+        "heading": "Advanced Targeting for Smarter Messaging",
+        "description": "Tailor your outreach with data-backed targeting. Gather feedback to test messaging, measure campaign performance, and find out what resonates with your audience — or doesn’t.",
+        "points": [
+          {
+            "title": "Behavior-Based Feedback",
+            "text": "Trigger forms based on opens, clicks, or inactivity."
+          },
+          {
+            "title": "Performance Tracking",
+            "text": "Identify top-performing teams and campaigns."
+          },
+          {
+            "title": "Continuous Optimization",
+            "text": "Refine subject lines, offers, and design based on real input."
+          }
+        ],
+        "image": {
+          "src": "/images/email-targeting.png",
+          "alt": "Email Targeting Insights"
+        },
+        "reverse": true
+      },
+      {
+        "tag": "Easy Installation",
+        "heading": "Get Started in Minutes — No Code Required",
+        "description": "You don’t need technical expertise to start collecting email feedback. Install Alium for Email in just a few simple steps and begin gathering insights instantly.",
+        "points": [
+          {
+            "title": "Zero Technical Barriers",
+            "text": "Setup takes less than 5 minutes — no developer needed."
+          },
+          {
+            "title": "Step-by-Step Guidance",
+            "text": "Follow a simple onboarding flow to go live fast."
+          },
+          {
+            "title": "Instant Feedback Access",
+            "text": "Start viewing responses as soon as your emails are sent."
+          }
+        ],
+        "image": {
+          "src": "/images/easy-email-install.png",
+          "alt": "Easy Email Installation"
+        },
+        "reverse": false
+      },
+      {
+        "tag": "Multi-Device Ready",
+        "heading": "Feedback That Works on Every Screen",
+        "description": "Your customers open emails across devices — Alium ensures your feedback widgets work flawlessly everywhere, from mobile to desktop.",
+        "points": [
+          {
+            "title": "Responsive Design",
+            "text": "Feedback forms adjust perfectly to any device or screen size."
+          },
+          {
+            "title": "Cross-Platform Support",
+            "text": "Works across major email clients and browsers."
+          },
+          {
+            "title": "Optimized Experience",
+            "text": "Deliver smooth, friction-free feedback interactions."
+          }
+        ],
+        "image": {
+          "src": "/images/email-multi-device.png",
+          "alt": "Responsive Email Feedback"
+        },
+        "reverse": true
+      },
+      {
+        "tag": "Insightful Reporting",
+        "heading": "Understand the ‘Why’ Behind Every Response",
+        "description": "Alium gives you clear, contextual insights into your subscribers’ behavior. Identify what’s working, where issues arise, and how to boost engagement.",
+        "points": [
+          {
+            "title": "Technical Diagnostics",
+            "text": "View device type, browser, or mail client details per response."
+          },
+          {
+            "title": "Statistical Overview",
+            "text": "Track performance trends and overall satisfaction metrics."
+          },
+          {
+            "title": "Deep Feedback Analysis",
+            "text": "Dive into individual responses to find actionable insights."
+          }
+        ],
+        "image": {
+          "src": "/images/email-reporting.png",
+          "alt": "Email Feedback Reporting Dashboard"
+        },
+        "reverse": false
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Turn Every Email Into a Growth Opportunity",
+    "subheading": "Start collecting meaningful feedback directly from your subscribers — and transform your email marketing into a customer-driven experience.",
+    "buttonText": "Contact Us",
+    "buttonLink": "/contact"
+  }
+}

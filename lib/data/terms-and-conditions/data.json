@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Terms & Conditions",
+    "subtitle": "Please find below the latest Alium terms and conditions (“Terms”).",
+    "description": "Please read these Terms carefully. Access to, and use of Alium products (“Products”), Alium services (“Services”), and the Alium website (https://app.Alium.com/) is conditional on your agreement to these Terms. By creating an account, or by using or visiting our Website, you are bound to these Terms and you indicate your continued acceptance of them."
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Your Alium Account",
+      "content": [
+        "If you create an account on the Website, you are responsible for maintaining the security of your account and fully responsible for all activities that occur under the account and any other actions taken in connection with it.",
+        "You agree to provide and maintain accurate, current and complete information, including your contact and payment information.",
+        "You may not use false or misleading information in connection with your account, or trade on the name or reputation of others. Alium may change or remove any information it considers inappropriate or unlawful, and may verify the accuracy of information you provide.",
+        "You are responsible for taking reasonable steps to maintain the confidentiality of your username and password, and must immediately notify Alium of any unauthorized use or breaches. Alium will not be liable for damages resulting from such acts or omissions."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Responsibility of Users of the Website, Products, and/or Services",
+      "content": [
+        "Your access to and use of the Website, Products, and/or Services must be lawful and comply with these Terms and any other agreement between you and Alium.",
+        "You are responsible for maintaining confidentiality of your account credentials, and must notify Alium of unauthorized use or breaches. Alium will not be liable for your acts or omissions."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Fees and Payments",
+      "content": [
+        "By purchasing Products and/or Services, you agree to pay Alium annual subscription fees as indicated for such Product or Service. Payments will be due the first day you sign up and will cover an annual period as indicated.",
+        "Configurations and prices of the Website, Products, and/or Services can change at any time. Alium is entitled to modify configurations, fees, prices, and quotations — provided no price changes apply during your subscription term unless agreed for extension, upgrade, or renewal.",
+        "You agree to such changes if you do not object in writing within seven (7) business days of receiving notice or an invoice announcing fee or price changes.",
+        "All prices are exclusive of taxes, duties, levies, or fees imposed by any taxing authority other than Alium’s income tax, unless you provide an appropriate resale or exemption certificate for the delivery location.",
+        "If changes in law cause a tax to be levied that is irrecoverable and results in increased costs to Alium of delivering the Products/Services, then Alium is entitled to increase its prices accordingly and retroactively."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Use of Third Party Content and Materials",
+      "content": [
+        "Alium has not reviewed, and cannot review, all of the material (including software) posted to the Website, and cannot be responsible for its content, use, or effects.",
+        "By operating the Website, Alium does not represent or imply endorsement of such material, or that it believes such material to be accurate, useful, or non-harmful.",
+        "The Website may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing inaccuracies, typographical mistakes, and other errors.",
+        "The Website may also contain material that violates privacy or intellectual property rights of third parties, or whose downloading/use is subject to additional terms. Alium disclaims any responsibility for harm or damages resulting from the use or downloading of third-party postings on the Website."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Content Posted on Other Websites",
+      "content": [
+        "Alium has not reviewed, and cannot review, all material (including software) made available through websites that link to Alium.com or that Alium.com links to.",
+        "Alium does not control such non-Alium websites or webpages and is not responsible for their contents or use.",
+        "By linking to a non-Alium website or webpage, Alium does not represent or imply endorsement of that site or page."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Copyright Infringement",
+      "content": [
+        "Alium requires others to respect its intellectual property rights and also respects the IP rights of others. If you believe material located on or linked to by the Website violates your copyright, you are encouraged to notify Alium.",
+        "Alium will respond to such notices by removing infringing material or disabling links to it as able.",
+        "To bring infringing material to Alium’s attention, you must provide the following information:"
+      ],
+      "points": [
+        "An electronic or physical signature of the person authorized to act on behalf of the copyright owner.",
+        "Identification of the copyrighted work and location of the allegedly infringing work.",
+        "A written statement that you have a good-faith belief the use is not authorized by the owner, agent, or law.",
+        "Your name and contact information (telephone number and email).",
+        "A statement you believe the information in your notice is accurate and under penalty of perjury you are authorized to act on behalf of the owner."
+      ],
+      "postPoints": [
+        "If a user infringes or repeatedly infringes copyrights or other IP rights of Alium or others, Alium may terminate or deny access to the Website, Products, and/or Services.",
+        "In the event of termination, Alium will have no obligation to refund amounts previously paid."
+      ]
+    }
+  ]
+}

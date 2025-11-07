@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Financial Services",
+    "subheading": "Build trust and innovate for better results.",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaSearch",
+          "title": "Stay Relevant",
+          "subtitle": "Monitor feedback proactively"
+        },
+        {
+          "icon": "FaChartLine",
+          "title": "Digitalize the Journey",
+          "subtitle": "Deliver experiences for tech-savvy customers"
+        }
+      ],
+      "analytics": {
+        "title": "Customer Engagement",
+        "subtitle": "+85% proactive insight capture this quarter",
+        "progress": 0.72,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Transform Customer Experiences in Finance",
+    "description": "Alium helps financial institutions capture and act on customer insights, turning feedback into meaningful actions that build trust and loyalty.",
+    "cards": [
+      {
+        "icon": "FaSearch",
+        "title": "Stay Relevant",
+        "subtitle": "Identify friction points early",
+        "description": "Monitor customer behavior through feedback to uncover frustrations before they consider switching to another provider.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Digitalize the Journey",
+        "subtitle": "Deliver modern experiences",
+        "description": "Adapt every touchpoint to match the expectations of today’s digital-first customers, keeping your services seamless and relevant.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaCheckCircle",
+        "title": "Build Customer Trust",
+        "subtitle": "Secure and transparent interactions",
+        "description": "Increase confidence with clear communication and secure handling of sensitive information, strengthening customer relationships.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Customer-Centric Finance",
+    "heading": "Turn Feedback into Actionable Financial Insights",
+    "description": "Alium integrates customer feedback with behavioral data to help banks anticipate needs, reduce friction, and build loyalty.",
+    "points": [
+      {
+        "title": "Stay Ahead with VoC",
+        "text": "Implement Voice of Customer solutions to proactively understand user frustrations and enhance trust before competitors intervene."
+      },
+      {
+        "title": "Thrive with New Technology",
+        "text": "Leverage CX technology to measure digital interactions, rapidly iterate, and tailor digital touchpoints for a personalized customer experience."
+      },
+      {
+        "title": "Develop Cross-Functional Teams",
+        "text": "Align business strategy with technology teams using design thinking and agile approaches to co-create impactful banking solutions."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1561414927-6a3b9a6b9c3c?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Financial services dashboard showing customer insights and behavior"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "CREATE MEMORABLE USER EXPERIENCES",
+    "title": "Design Banking Experiences That Resonate",
+    "description": "Even in digital transformation, human-centered design matters. Alium empowers financial institutions to identify patterns in customer behavior, anticipate frustrations, and prioritize initiatives for lasting impact. Enhance trust, delight customers, and innovate with insights that drive meaningful outcomes."
+  },
+  "cta": {
+    "heading": "Ready to Elevate Your Banking Experience?",
+    "subheading": "Join financial institutions using Alium to build trust, anticipate customer needs, and deliver exceptional experiences.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

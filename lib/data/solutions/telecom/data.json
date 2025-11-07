@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Telecom",
+    "subheading": "Connect with engaged customers for lasting success",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaClipboardCheck",
+          "title": "Decrease Support Requests",
+          "subtitle": "Minimize hours spent on support calls"
+        },
+        {
+          "icon": "FaChartLine",
+          "title": "Stay Ahead of Competition",
+          "subtitle": "Keep up with digital changes and customer needs"
+        }
+      ],
+      "analytics": {
+        "title": "Customer Engagement",
+        "subtitle": "+75% more interactions completed digitally",
+        "progress": 0.72,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Enhance Telecom Experiences Across All Channels",
+    "description": "Alium empowers telecom companies to reduce support load, improve engagement, and maintain a trusted brand through seamless digital experiences.",
+    "cards": [
+      {
+        "icon": "FaClipboardCheck",
+        "title": "Decrease Support Requests",
+        "subtitle": "Prevent issues before they arise",
+        "description": "Optimize digital touchpoints to reduce phone and support interactions, saving time and improving user satisfaction.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Stay Ahead of Competition",
+        "subtitle": "Keep pace with evolving technology",
+        "description": "Monitor user behavior and digital trends to stay ahead, offering services that meet customer expectations proactively.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaShieldAlt",
+        "title": "Boost Brand Reputation",
+        "subtitle": "Consistency builds trust",
+        "description": "Deliver a reliable, consistent experience across all channels to strengthen your brand and gain customer loyalty.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Telecom Insights",
+    "heading": "Optimize Experiences, Build Trust",
+    "description": "Alium helps telecom providers create seamless digital experiences, maintain customer trust, and continuously improve service through real-time feedback.",
+    "points": [
+      {
+        "title": "Improve Service, Build Trust",
+        "text": "Enhance user experience and provide instant channels for support, reducing dependency on traditional call centers."
+      },
+      {
+        "title": "Innovate Across All Channels",
+        "text": "Rethink customer engagement for digital-first interactions, ensuring a consistent and modern experience across platforms."
+      },
+      {
+        "title": "Ensure Customer Loyalty",
+        "text": "Continuously collect feedback and optimize experiences, creating positive associations with your brand."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1581091215366-8f929f07ef1b?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Telecom user engaging with digital services on multiple devices"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "CREATE MEMORABLE USER EXPERIENCES",
+    "title": "Modernize Your Customer Experience",
+    "description": "Alium equips telecom companies to adapt to fast-paced digital expectations, reduce support overhead, and create trusted, engaging experiences across all channels."
+  },
+  "cta": {
+    "heading": "Ready to Transform Your Telecom Experience?",
+    "subheading": "Join industry leaders using Alium to reduce support load, increase engagement, and build lasting customer trust.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

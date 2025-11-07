@@ -1,0 +1,50 @@
+{
+  "title": "Privacy Policy",
+  "intro": "Your privacy is important to us. This Privacy Policy explains how Alium collects, uses, and protects your personal information.",
+  "sections": [
+    {
+      "heading": "1. General Data Protection",
+      "content": "Alium complies with the General Data Protection Regulation (GDPR) and follows its data protection principles."
+    },
+    {
+      "heading": "2. Information We Collect",
+      "content": "We only collect personal data that you voluntarily provide, such as when you fill out a contact form, request a demo, subscribe to our newsletter, leave feedback, register as a partner, or complete a survey. Typical details include your name, email address, and phone number."
+    },
+    {
+      "heading": "3. Use of Cookies",
+      "content": "Our website uses cookies, mainly for analytical purposes. For more details about how we use cookies, please refer to our Cookie Policy."
+    },
+    {
+      "heading": "4. Data Retention",
+      "content": "We retain personal data only for as long as necessary to deliver the requested service or as required by applicable laws."
+    },
+    {
+      "heading": "5. Data Security",
+      "content": "We implement appropriate safeguards to protect your personal data from unauthorized access, loss, or misuse."
+    },
+    {
+      "heading": "6. Data Sharing",
+      "content": "We do not share your personal data with third parties unless required by law. Data may be transferred within the Alium group or to trusted service providers who are bound by strict data protection agreements."
+    },
+    {
+      "heading": "7. Marketing Communications",
+      "content": "You may occasionally receive promotional communications from us about product updates, events, or offers. You can unsubscribe at any time by using the link in our emails or contacting us at hello@alium.co.in."
+    },
+    {
+      "heading": "8. Your Rights",
+      "content": "You have the right to access, correct, update, delete, or obtain a copy of your personal data in a structured, machine-readable format. To make a request, please contact hello@alium.co.in and include a copy of your ID with the photo and identification number obscured."
+    },
+    {
+      "heading": "9. Data Selling Policy",
+      "content": "Alium does not sell personal information under any circumstances."
+    },
+    {
+      "heading": "10. Additional Notes",
+      "content": "Alium’s public website is fully GDPR-compliant. More details about our privacy and compliance efforts are available on our GDPR page."
+    },
+    {
+      "heading": "11. Contact Us",
+      "content": "For any questions or privacy-related requests, reach out to us at hello@alium.co.in or call +91 7042855662."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for People & Culture",
+    "subheading": "Engage your employees to drive performance and growth.",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaUserCheck",
+          "title": "HR Teams",
+          "subtitle": "Engagement-Focused"
+        },
+        {
+          "icon": "FaBuilding",
+          "title": "People Leaders",
+          "subtitle": "Culture-Driven"
+        }
+      ],
+      "analytics": {
+        "title": "Engagement Growth",
+        "subtitle": "+87% higher participation in feedback programs",
+        "progress": 0.82,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Empower Teams Through Continuous Feedback",
+    "description": "Alium helps People & Culture teams build a thriving workplace by understanding employee sentiment, performance, and engagement in real time.",
+    "cards": [
+      {
+        "icon": "FaChartLine",
+        "title": "Measure Engagement & Performance",
+        "subtitle": "Track what drives motivation and success",
+        "description": "Run ongoing engagement surveys to evaluate performance and satisfaction across departments. Identify trends and improvement areas instantly.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaSearch",
+        "title": "Dive Deeper into Employee Insights",
+        "subtitle": "Understand individuals and teams better",
+        "description": "Analyze employee data across roles and departments. Generate detailed reports or dive into individual metrics to discover unique engagement drivers.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaSmile",
+        "title": "Improve Employee Satisfaction",
+        "subtitle": "Act on insights that matter most",
+        "description": "Turn employee feedback into meaningful action. Use data to refine onboarding, communication, and retention strategies that foster workplace happiness.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Employee Intelligence",
+    "heading": "Turn Employee Feedback into Meaningful Action",
+    "description": "Alium connects performance, sentiment, and engagement data to help HR teams build better employee experiences from onboarding to retention.",
+    "points": [
+      {
+        "title": "Ongoing Engagement Surveys",
+        "text": "Create continuous engagement surveys to measure team morale, performance, and productivity. Use targeting and timing triggers for precision insights and flexible reporting."
+      },
+      {
+        "title": "Feedback on Training & Onboarding",
+        "text": "Collect post-training and onboarding feedback through quick surveys or subtle slide-out forms. Identify improvement areas to enhance learning and employee integration."
+      },
+      {
+        "title": "Streamline Internal Communications",
+        "text": "With Alium for Email, capture employee sentiment directly within internal messages. Detect communication gaps early and identify trends across departments for proactive action."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Team collaboration representing employee engagement insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "CREATE A VOICE OF EMPLOYEE PROGRAM",
+    "title": "Build Your Success by Engaging Your Employees",
+    "description": "Your employees want to be heard — and Alium helps make that possible. Through powerful survey and analytics tools, you can build a complete Voice of the Employee (VoE) program. Collect feedback across the employee lifecycle — from recruitment to performance. With survey fatigue on the rise, Alium’s adaptive insights help capture meaningful feedback efficiently. Create a continuous dialogue that enhances employee experience, improves retention, and drives organizational growth."
+  },
+  "cta": {
+    "heading": "Ready to Build a Happier, More Engaged Workplace?",
+    "subheading": "Join HR leaders using Alium to enhance employee engagement, satisfaction, and performance through real-time feedback.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

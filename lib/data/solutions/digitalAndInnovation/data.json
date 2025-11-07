@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Digital & Innovation",
+    "subheading": "Foster a customer-centric culture and drive innovation across your organization.",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaLightbulb",
+          "title": "Digital Teams",
+          "subtitle": "Innovation-Driven"
+        },
+        {
+          "icon": "FaBuilding",
+          "title": "CX Leaders",
+          "subtitle": "Customer-Focused"
+        }
+      ],
+      "analytics": {
+        "title": "Experience Improvement",
+        "subtitle": "+95% faster implementation of digital insights",
+        "progress": 0.85,
+        "icon": "FaChartLine"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Transform Digital Experiences Through Continuous Innovation",
+    "description": "Alium empowers digital and innovation teams to capture customer insights, improve digital journeys, and create an organization centered around customer experience.",
+    "cards": [
+      {
+        "icon": "FaSearch",
+        "title": "Understand Customer Journeys",
+        "subtitle": "Gain visibility into every interaction",
+        "description": "Capture real-time feedback across digital touchpoints to map customer journeys and reveal opportunities for improvement across web and mobile.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartBar",
+        "title": "Improve Digital Experiences",
+        "subtitle": "Turn insights into better user experiences",
+        "description": "Use actionable feedback to identify friction points and optimize site performance, usability, and engagement across digital platforms.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaBullseye",
+        "title": "Facilitate Organizational Change",
+        "subtitle": "Create a customer-centric culture",
+        "description": "Align departments around shared goals and insights. Foster collaboration and embed customer-first thinking into every level of your organization.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Digital Intelligence",
+    "heading": "Use Real-Time Feedback to Power Innovation",
+    "description": "Alium bridges digital analytics with customer insights, enabling innovation teams to measure, iterate, and enhance experiences continuously.",
+    "points": [
+      {
+        "title": "Optimize Your Mobile Channels",
+        "text": "With Alium for Apps, capture in-app feedback and optimize mobile experiences. Integrate easily with iOS or Android SDKs to collect real-time insights through targeted campaigns."
+      },
+      {
+        "title": "Create Dashboards That Fit Your Needs",
+        "text": "Visualize data with customizable dashboards showing key metrics, emotional trends, and NPS scores. Benchmark performance across industries and segment by device, platform, or region."
+      },
+      {
+        "title": "Organize and Track Progress",
+        "text": "Use task and case management tools to delegate actions, track progress, and measure how feedback-driven improvements align with your customer-centric strategy."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Digital innovation dashboard showcasing real-time customer feedback insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "BECOME A CUSTOMER-CENTRIC ORGANIZATION",
+    "title": "Drive Organizational Change by Innovating for Your Customers",
+    "description": "Customers today expect connected, personalized experiences across every digital channel. With Alium’s Voice of Customer suite, your teams can identify evolving needs, drive change across departments, and embed customer-centric innovation throughout the organization. Engage customers in meaningful dialogue, plan future innovations with data-driven insights, and integrate real-time feedback from your web and mobile channels. Combine with tools like session recordings to uncover friction points and reduce churn while boosting satisfaction."
+  },
+  "cta": {
+    "heading": "Ready to Lead with Customer-Centric Innovation?",
+    "subheading": "Join digital and innovation teams using Alium to transform feedback into meaningful experiences and measurable business growth.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

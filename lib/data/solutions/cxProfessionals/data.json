@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for CX Professionals",
+    "subheading": "Improve digital experiences with customers in mind.",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaKey",
+          "title": "Customer Teams",
+          "subtitle": "Empathy-Driven"
+        },
+        {
+          "icon": "FaBuilding",
+          "title": "CX Leaders",
+          "subtitle": "Insight-Focused"
+        }
+      ],
+      "analytics": {
+        "title": "Satisfaction Score",
+        "subtitle": "+91% positive sentiment this quarter",
+        "progress": 0.9,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Redefine the Customer Experience",
+    "description": "Alium empowers CX professionals to listen, act, and continuously improve digital experiences that delight customers and strengthen relationships.",
+    "cards": [
+      {
+        "icon": "FaSmile",
+        "title": "Capture Customer Sentiment",
+        "subtitle": "Let customers intuitively tell you why they are satisfied or not",
+        "description": "Gather meaningful insights directly from customers to understand what’s driving satisfaction or causing friction at each step of their journey.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaTools",
+        "title": "Take Action to Minimize Roadblocks",
+        "subtitle": "Manage feedback and resolution progress",
+        "description": "Monitor, categorize, and resolve issues in real time using feedback data to prevent repeated pain points and enhance service quality.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaStar",
+        "title": "Improve Customer Satisfaction",
+        "subtitle": "Reimagine experiences based on customer needs",
+        "description": "Use feedback insights to design seamless, responsive experiences that foster trust, retention, and long-term loyalty.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Customer-Centric Insights",
+    "heading": "Understand, Act, and Elevate Customer Experience",
+    "description": "Alium helps CX professionals uncover issues, track sentiment, and resolve challenges before they impact the customer relationship.",
+    "points": [
+      {
+        "title": "Ask the Right Questions",
+        "text": "Pinpoint where customers face issues by launching targeted surveys across your digital touchpoints with flexible targeting options."
+      },
+      {
+        "title": "Report on Customer Health",
+        "text": "Analyze essential KPIs like NPS, CSAT, and CES to evaluate customer satisfaction. Visualize trends and uncover key drivers behind performance."
+      },
+      {
+        "title": "Bring in Your Support Teams",
+        "text": "Use Alium’s built-in case management and integrations with Zendesk or JIRA to notify, track, and resolve issues efficiently."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Customer experience dashboard with satisfaction metrics"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "ENHANCE YOUR CUSTOMER EXPERIENCE",
+    "title": "Empower Your Customers to Give You the Answers",
+    "description": "Drive true customer-centricity by listening to your audience and acting on their feedback. With Alium’s Voice of Customer suite, collect insights across every digital channel — from websites to mobile apps and emails. Measure customer happiness through key metrics, identify areas for improvement, and take informed actions using case management or existing workflow integrations. Your customers hold the key to your brand’s success — Alium helps you unlock it."
+  },
+  "cta": {
+    "heading": "Ready to Transform Customer Experience?",
+    "subheading": "Join leading CX professionals using Alium to capture sentiment, resolve pain points, and deliver meaningful experiences at every touchpoint.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

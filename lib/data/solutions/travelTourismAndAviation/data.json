@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Travel, Tourism, and Aviation",
+    "subheading": "Get your customers on their way",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaTools",
+          "title": "Identify Bugs and Errors",
+          "subtitle": "Catch issues before they impact bookings"
+        },
+        {
+          "icon": "FaChartLine",
+          "title": "Streamline the Booking Process",
+          "subtitle": "Reduce friction and drop-offs"
+        }
+      ],
+      "analytics": {
+        "title": "Booking Efficiency",
+        "subtitle": "+90% smoother booking experiences this quarter",
+        "progress": 0.75,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Deliver Seamless Travel Experiences",
+    "description": "Alium helps travel, tourism, and aviation companies optimize digital channels, reduce friction, and enhance every step of the customer journey.",
+    "cards": [
+      {
+        "icon": "FaTools",
+        "title": "Identify Bugs and Errors",
+        "subtitle": "Prevent costly disruptions",
+        "description": "Catch issues in your booking flow early to prevent negative impact on conversions and customer satisfaction.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Streamline the Booking Process",
+        "subtitle": "Optimize user flow",
+        "description": "Analyze the booking journey to identify pain points, reduce drop-offs, and make the experience faster and smoother for travelers.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaSearch",
+        "title": "Provide the Right Information",
+        "subtitle": "Enhance customer clarity",
+        "description": "Understand exactly what travelers are looking for and present information clearly across your digital channels.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Travel Experience Insights",
+    "heading": "Optimize Every Step of the Customer Journey",
+    "description": "Alium empowers travel and aviation businesses to monitor user interactions, resolve issues quickly, and enhance customer experiences across digital channels.",
+    "points": [
+      {
+        "title": "Optimize for Omni-Channel",
+        "text": "Ensure a consistent and seamless brand experience across all digital touchpoints by identifying user pain points and optimizing interactions."
+      },
+      {
+        "title": "Respond to Urgent Bugs",
+        "text": "Receive instant alerts and automated labeling so the right team can address issues quickly, maintaining a smooth experience for travelers."
+      },
+      {
+        "title": "Advanced Targeting",
+        "text": "Monitor user behavior to continuously test, update, and improve booking flows, helping your company stay ahead in a competitive travel market."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Travel booking dashboard showing user insights and booking analytics"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "CREATE MEMORABLE USER EXPERIENCES",
+    "title": "Enhance Travel Journeys from Start to Finish",
+    "description": "Consumers increasingly value experiences over products. Alium enables travel and aviation companies to anticipate customer expectations, streamline digital booking channels, and reduce friction. By listening to customers and analyzing their interactions, businesses can provide memorable experiences, encourage repeat bookings, and improve satisfaction across all touchpoints."
+  },
+  "cta": {
+    "heading": "Ready to Elevate Your Travel Experience?",
+    "subheading": "Join travel and aviation companies using Alium to optimize bookings, improve customer satisfaction, and deliver seamless journeys.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

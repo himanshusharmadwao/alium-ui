@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "tag": "About Alium",
+    "title": "Empowering Companies to Understand Their Customers Better",
+    "description": "Alium enables businesses to capture meaningful insights from prospects and customers in real time. Our mission is simple — to help companies understand why their customers make decisions. By knowing the “why,” organizations can improve conversions, boost engagement, and build lasting customer relationships."
+  },
+  "journey": {
+    "heading": "Our Journey",
+    "image": "/images/office.png",
+    "paragraphs": [
+      "Founded in 2019, Alium was built on a vision to make digital experiences more human. We empower enterprises to go beyond surface-level analytics and truly understand their customers’ motivations. Through targeted surveys and embedded feedback tools, businesses can collect both quantitative and qualitative data to uncover what drives behavior — and use those insights to act faster and smarter.",
+      "Our integrations bring data from multiple systems together, offering a complete, actionable view of the digital journey. With Alium, teams are continuously testing, measuring, and optimizing to strengthen the business impact of every customer experience."
+    ]
+  },
+  "principles": {
+    "heading": "The Principles That Guide Us",
+    "description": "Everything we build, design, and deliver is guided by three core principles — helping businesses connect deeper with their customers and adapt faster in a changing world.",
+    "items": [
+      {
+        "icon": "FaUsers",
+        "title": "Customer-Obsessed",
+        "text": "We believe great products start with great listening. Every feature in Alium is designed to give customers an effortless way to share what matters most to them."
+      },
+      {
+        "icon": "FaLightbulb",
+        "title": "Clarity Through Data",
+        "text": "We simplify complex feedback into clear, actionable insights. Our focus is to help teams make confident decisions backed by real user understanding."
+      },
+      {
+        "icon": "FaHandshake",
+        "title": "Continuous Improvement",
+        "text": "We are owners. We act on behalf of the entire company, beyond just our own team."
+      }
+    ]
+  },
+  "teamMembers": [
+    {
+      "name": "Sarah Johnson",
+      "role": "CEO & Founder",
+      "img": "/images/avatar-2.jpg",
+      "linkedin": "https://www.linkedin.com/in/sarah-johnson/"
+    },
+    {
+      "name": "David Kim",
+      "role": "CTO",
+      "img": "/images/avatar-2.jpg",
+      "linkedin": "https://www.linkedin.com/in/david-kim/"
+    },
+    {
+      "name": "Emma Lee",
+      "role": "Head of Marketing",
+      "img": "/images/avatar-2.jpg",
+      "linkedin": "https://www.linkedin.com/in/emma-lee/"
+    },
+    {
+      "name": "James Patel",
+      "role": "Chief Strategy Officer",
+      "img": "/images/avatar-2.jpg",
+      "linkedin": "https://www.linkedin.com/in/james-patel/"
+    }
+  ],
+  "cta": {
+    "heading": "Join the Team Shaping the Future of Customer Insights",
+    "subheading": "At Alium, we’re on a mission to help businesses truly understand their customers — the why behind every decision. We’re looking for passionate, curious people who want to build tools that make digital experiences more human.",
+    "buttonText": "Explore Careers",
+    "buttonLink": "/careers"
+  }
+}

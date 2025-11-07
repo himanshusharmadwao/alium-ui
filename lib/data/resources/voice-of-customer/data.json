@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "title": "Voice of Customer Solution",
+    "subtitle": "What it means, why it matters, and how to put it into action"
+  },
+  "whatIsVoC": {
+    "tag": "WHAT IS VOICE OF CUSTOMER?",
+    "icon": "FaLightbulb",
+    "heading": "A Voice of Customer (VoC) solution captures insights directly from your customers — helping you understand their true needs, expectations, and experiences.",
+    "description": "Voice of Customer solutions enable organizations to listen to their audiences in real time and identify what truly drives satisfaction and loyalty. Originally developed in Japan as a way to connect customer requirements to product development, VoC has evolved into a cornerstone of modern customer experience management — empowering brands to turn feedback into continuous improvement and customer value."
+  },
+  "whyVoCMatters": {
+    "tag": "WHY VOC MATTERS",
+    "heading": "Why Is Voice of Customer Research Essential?",
+    "description": "Today’s customers are more informed and emotionally invested in the brands they choose. Giving them a voice allows your organization to make smarter, data-driven decisions that foster trust, relevance, and long-term relationships.",
+    "points": [
+      {
+        "title": "Understand Customer Priorities",
+        "text": "Identify what your customers care about most and align your strategy around their true motivations."
+      },
+      {
+        "title": "Set Meaningful Business Goals",
+        "text": "Establish goals and initiatives that reflect your customers’ evolving needs and expectations."
+      },
+      {
+        "title": "Drive Profitable Growth",
+        "text": "Discover the areas where meeting customer needs can lead to sustainable revenue and loyalty."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1517142089942-ba376ce32a2e?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Analytics dashboard showing Voice of Customer insights"
+    },
+    "reverse": false
+  },
+  "voCAdvantage": {
+    "title": "What Are the Benefits of a Voice of Customer Solution?",
+    "description": "Conducting Voice of Customer research allows you to uncover the 'why' behind customer behaviors and decisions. While analytics reveal what’s happening in your digital journeys, VoC data explains the motivations and barriers behind them. By integrating customer feedback into your strategy, you can build better products, optimize service delivery, and create experiences that drive satisfaction and loyalty.",
+    "features": [
+      {
+        "icon": "FaUser",
+        "title": "Enhance User Experience"
+      },
+      {
+        "icon": "FaPiggyBank",
+        "title": "Optimize Resources and Efficiency"
+      },
+      {
+        "icon": "GiProgression",
+        "title": "Boost Conversions and Retention"
+      },
+      {
+        "icon": "FaUsers",
+        "title": "Inspire Customer-Centric Culture"
+      }
+    ]
+  },
+  "effectiveVoC": {
+    "title": "How to Build an Effective Voice of Customer Program",
+    "description": "A successful Voice of Customer program connects feedback collection, insight generation, and strategic action. By asking the right questions, analyzing data intelligently, and responding swiftly, you can embed customer insights into every aspect of your organization — from marketing and product design to service improvement and innovation.",
+    "stepsTitle": "OUR METHODOLOGY",
+    "steps": [
+      {
+        "title": "Ask",
+        "description": "Capture feedback across critical touchpoints — websites, mobile apps, email, and in-person — to understand each stage of your customer journey.",
+        "icon": "FaClipboardList"
+      },
+      {
+        "title": "Analyze",
+        "description": "Transform raw data into actionable insights. Evaluate trends across metrics, sentiment, and behavior to identify opportunities for improvement.",
+        "icon": "LuChartSpline"
+      },
+      {
+        "title": "Act",
+        "description": "Use your findings to create tangible change — improving journeys, refining messaging, and fostering a truly customer-centric organization.",
+        "icon": "FaCheckCircle"
+      }
+    ]
+  },
+  "customerCentricity": {
+    "tag": "WHAT IS CUSTOMER-CENTRICITY?",
+    "icon": "FaLightbulb",
+    "title": "Putting Customers at the Heart of Your Strategy",
+    "description": "Customer-centric organizations make decisions driven by real customer feedback — using insights to craft meaningful, relevant, and delightful experiences. This focus nurtures loyalty, reduces acquisition and development costs, and provides a competitive edge. Becoming customer-centric is an ongoing journey of maturity, starting with a strong Voice of Customer foundation that continuously aligns your business with what your customers truly value."
+  },
+  "cta": [
+    {
+      "heading": "Explore how our Voice of Customer solution can transform your organization",
+      "buttonText": "Speak to an Expert",
+      "buttonLink": "/contact"
+    }
+  ]
+}

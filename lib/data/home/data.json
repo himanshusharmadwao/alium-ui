@@ -1,0 +1,161 @@
+{
+    "hero": {
+        "title": "Turn Every Response Into Revenue",
+        "subtitle": "Stop collecting data that goes nowhere. Alium helps you design beautiful, intelligent surveys that reveal what your customers really think — so you can act faster, retain longer, and grow smarter.",
+        "buttonText": "Get Free Access",
+        "buttonLink": "#"
+    },
+    "clientsSection": {
+        "heading": "Trusted by 10,000+ teams worldwide",
+        "subheading": "Join the companies that rely on Alium to drive better decisions",
+        "clients": [
+            {
+                "icon": "FaAmazon"
+            },
+            {
+                "icon": "FaSpotify"
+            },
+            {
+                "icon": "FaSlack"
+            },
+            {
+                "icon": "FaDropbox"
+            },
+            {
+                "icon": "FaAirbnb"
+            },
+            {
+                "icon": "FaShopify"
+            }
+        ]
+    },
+    "surveys": {
+        "title": "Reach Your Audience Wherever They Are",
+        "description": "Alium makes it effortless to collect feedback across every channel — from websites and apps to emails and in-page experiences.",
+        "cards": [
+            {
+                "icon": "FaGlobe",
+                "title": "Web Survey",
+                "subtitle": "Engage Visitors Instantly on Your Website",
+                "desc": "Create beautiful, responsive surveys that blend seamlessly with your site’s design — perfect for gathering feedback, measuring satisfaction, or running quick polls in real time.",
+                "linkTitle": "Start Here",
+                "linkHref": "#"
+            },
+            {
+                "icon": "FaEnvelope",
+                "title": "Link / Email Survey",
+                "subtitle": "Reach People Directly in Their Inbox",
+                "desc": "Send personalized surveys through email or shareable links. Ideal for NPS, post-purchase feedback, or customer satisfaction studies — no setup, just share and collect.",
+                "linkTitle": "Start Here",
+                "linkHref": "#"
+            },
+            {
+                "icon": "FaLayerGroup",
+                "title": "In-Page Survey",
+                "subtitle": "Capture Contextual Insights as Users Browse",
+                "desc": "Trigger short, unobtrusive surveys within specific pages or user journeys. Understand what visitors think in the moment — right where they interact.",
+                "linkTitle": "Start Here",
+                "linkHref": "#"
+            },
+            {
+                "icon": "FaCommentDots",
+                "title": "Pop-Up Survey",
+                "subtitle": "Spark Quick Responses Without Interrupting Flow",
+                "desc": "Launch lightweight, customizable pop-up surveys that appear at the right time — exit intent, scroll depth, or time on page. Get instant insights without hurting experience.",
+                "linkTitle": "Start Here",
+                "linkHref": "#"
+            },
+            {
+                "icon": "FaMobileAlt",
+                "title": "App Survey",
+                "subtitle": "Understand User Sentiment Inside Your App",
+                "desc": "Collect feedback from mobile users directly within your iOS or Android app. Perfect for post-update reviews, feature testing, or in-app experience optimization.",
+                "linkTitle": "Start Here",
+                "linkHref": "#"
+            }
+        ],
+        "buttonText": "Get Free Access",
+        "buttonLink": "https://app.aliumsurvey.com/"
+    },
+    "conversionSection": {
+        "title": "Turn Every Click into a Conversation",
+        "description": "Stop guessing what your customers want — ask them, right where it matters. With Alium, you can launch beautiful, on-brand surveys that capture real opinions in real time. Understand what drives satisfaction, uncover friction points, and make smarter decisions backed by your visitors' voice — not assumptions.",
+        "buttonText": "Get Free Access",
+        "buttonLink": "https://app.aliumsurvey.com/",
+        "image": "/images/dashboard-1.png"
+    },
+    "integrations": {
+        "title": "Integrate with your favorite tools.",
+        "description": "Connect ALIUM with the tools your team already uses. Seamlessly sync data, automate workflows, and get insights where you need them most.",
+        "buttonText": "View all integrations →",
+        "buttonLink": "#",
+        "items": [
+            {
+                "icon": "FaSlack",
+                "name": "Slack"
+            },
+            {
+                "icon": "FaGoogle",
+                "name": "Google"
+            },
+            {
+                "icon": "FaEnvelope",
+                "name": "Email"
+            },
+            {
+                "icon": "FaWindows",
+                "name": "Windows"
+            },
+            {
+                "icon": "FaHubspot",
+                "name": "HubSpot"
+            },
+            {
+                "icon": "SiSalesforce",
+                "name": "Salesforce"
+            }
+        ]
+    },
+    "testimonial": {
+        "heading": "Loved by Teams Worldwide",
+        "subHeading": "See what our amazing customers have to say about their experience with Alium. We're proud to have their support.",
+        "cards": [
+            {
+                "quote": "Alium has completely transformed our workflow. We're launching products twice as fast as before. It's an essential tool for any serious team.",
+                "name": "Sarah L.",
+                "role": "CTO, Innovate Inc.",
+                "image": "/images/avatar-1.jpg"
+            },
+            {
+                "quote": "The user interface is incredibly intuitive, and the customer support is top-notch. I was able to get my entire team onboarded in less than an hour.",
+                "name": "Michael B.",
+                "role": "Project Manager, Tech Solutions",
+                "image": "/images/avatar-1.jpg"
+            },
+            {
+                "quote": "As a startup, we need tools that are powerful but also affordable. Alium's pricing is unbeatable for the value it provides. Highly recommended!",
+                "name": "Jessica W.",
+                "role": "Founder, Creative Co.",
+                "image": "/images/avatar-1.jpg"
+            },
+            {
+                "quote": "Alium’s analytics have helped us make faster, data-backed decisions. It’s now an integral part of our marketing workflow.",
+                "name": "Daniel K.",
+                "role": "Head of Marketing, Growthify",
+                "image": "/images/avatar-1.jpg"
+            },
+            {
+                "quote": "A beautifully designed, easy-to-use survey platform that gives real-time insights. Exactly what our team needed.",
+                "name": "Priya S.",
+                "role": "Customer Experience Lead, Nova Labs",
+                "image": "/images/avatar-1.jpg"
+            }
+        ]
+    },
+    "cta": {
+        "heading": "Ready to Get Started?",
+        "subheading": "Join thousands of innovative companies and take your projects to the next level. Sign up for free, no credit card required.",
+        "buttonText": "Start Your Free Trial",
+        "buttonLink": "https://app.aliumsurvey.com/"
+    }
+}

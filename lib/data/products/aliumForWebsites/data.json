@@ -1,0 +1,157 @@
+{
+  "hero": {
+    "heading": "Turn Every Click Into a Conversation That Converts",
+    "text": "Your website visitors are talking — are you listening? With Alium for Websites, capture real-time feedback that reveals exactly what’s working, what’s broken, and what’s stopping visitors from converting. Transform silent drop-offs into powerful insights you can act on instantly.",
+    "buttonText": "Unlock Hidden Conversions",
+    "buttonLink": "/contact",
+    "image": "/images/product-banner.png"
+  },
+  "offerings": {
+    "heading": "Supercharge Your Website Experience",
+    "description": "Stop guessing and start knowing. Alium gives you the power to see your website through your visitors’ eyes — and act fast to improve it.",
+    "items": [
+      {
+        "icon": "FaCubes",
+        "title": "Automate the Guesswork Away",
+        "text": "Eliminate hours of manual research with instant, visual feedback that spots issues before your users even complain."
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Boost Conversions Effortlessly",
+        "text": "Your visitors will literally tell you how to sell better — capture insights that turn lost clicks into paying customers."
+      }
+    ]
+  },
+  "useCasesData": {
+    "heading": "The Tools That Turn Feedback Into Growth",
+    "subheading": "From the first visit to final purchase — every feature is built to help you understand your audience, fix friction, and accelerate revenue.",
+    "items": [
+      {
+        "tag": "Feedback Button",
+        "heading": "Never Miss a Moment to Connect",
+        "description": "Give every visitor an instant voice with the Alium Feedback Button. It blends perfectly into your website design — always there, never intrusive — letting users share what they love (and what’s broken) in seconds.",
+        "points": [
+          {
+            "title": "Instant Feedback Access",
+            "text": "Let users reach you anytime without filling out long forms."
+          },
+          {
+            "title": "On-Brand Integration",
+            "text": "Match the button to your website’s style — it feels like part of your design."
+          },
+          {
+            "title": "Designed for Every Device",
+            "text": "Beautifully responsive, fun to use, and friction-free on any screen."
+          }
+        ],
+        "image": {
+          "src": "/images/feedback-button.png",
+          "alt": "Website Feedback Button"
+        },
+        "reverse": false
+      },
+      {
+        "tag": "Visual User Feedback",
+        "heading": "See Exactly What Your Users See",
+        "description": "No more vague comments or blind fixes. Alium captures screenshots, device data, and context so you know *exactly* what your users are talking about — and why they’re struggling.",
+        "points": [
+          {
+            "title": "Crystal-Clear Context",
+            "text": "Get annotated screenshots with every feedback submission."
+          },
+          {
+            "title": "Tech-Level Clarity",
+            "text": "See device type, resolution, and page details for faster debugging."
+          },
+          {
+            "title": "Fix in Half the Time",
+            "text": "Prioritize and resolve issues before they cost you conversions."
+          }
+        ],
+        "image": {
+          "src": "/images/visual-feedback.png",
+          "alt": "Visual Feedback Example"
+        },
+        "reverse": true
+      },
+      {
+        "tag": "Intelligent Targeting",
+        "heading": "Ask Smarter, Not Louder",
+        "description": "Deliver personalized questions to the right users at the perfect moment. Whether it’s a first-time visitor or a loyal customer, Alium helps you ask what matters most — and get answers that drive growth.",
+        "points": [
+          {
+            "title": "Behavior-Based Targeting",
+            "text": "Trigger surveys by time on page, exit intent, or user actions."
+          },
+          {
+            "title": "Flexible Survey Styles",
+            "text": "Launch slide-outs, full-page forms, or exit surveys with ease."
+          },
+          {
+            "title": "Actionable NPS Data",
+            "text": "Get real-time Net Promoter Scores with open-ended insights."
+          }
+        ],
+        "image": {
+          "src": "/images/intelligent-targeting.png",
+          "alt": "Targeted Feedback Surveys"
+        },
+        "reverse": false
+      },
+      {
+        "tag": "Easy Setup & Management",
+        "heading": "Launch in Minutes — No Developers Needed",
+        "description": "Forget complex setups. With Alium, you can start collecting insights in under 5 minutes. Manage everything — from surveys to reports — in one clean dashboard that puts you in total control.",
+        "points": [
+          {
+            "title": "Zero-Code Setup",
+            "text": "Install with a single script and start capturing feedback instantly."
+          },
+          {
+            "title": "Central Command Center",
+            "text": "Manage all your surveys and insights in one place."
+          },
+          {
+            "title": "Instant Publishing",
+            "text": "Go live with changes the moment inspiration strikes."
+          }
+        ],
+        "image": {
+          "src": "/images/easy-setup.png",
+          "alt": "Feedback Management Dashboard"
+        },
+        "reverse": true
+      },
+      {
+        "tag": "Visual Reporting",
+        "heading": "Turn Feedback into a Data-Driven Goldmine",
+        "description": "Alium’s visual dashboard turns every piece of feedback into actionable intelligence. Discover patterns, track NPS trends, and uncover the ‘why’ behind every conversion — or missed one.",
+        "points": [
+          {
+            "title": "Live Insights Dashboard",
+            "text": "Track user sentiment and performance in real time."
+          },
+          {
+            "title": "Powerful Filtering",
+            "text": "Slice data by device, user journey, or feedback type for deeper insights."
+          },
+          {
+            "title": "Plug & Play Integrations",
+            "text": "Sync with your favorite tools for effortless workflow automation."
+          }
+        ],
+        "image": {
+          "src": "/images/visual-reporting.png",
+          "alt": "Feedback Reporting Dashboard"
+        },
+        "reverse": false
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Start Listening to the Clicks That Matter",
+    "subheading": "Alium turns visitor feedback into conversion fuel. Join the teams who’ve transformed their websites by letting their users lead the way — start free today.",
+    "buttonText": "Get Started Free",
+    "buttonLink": "/contact"
+  }
+}

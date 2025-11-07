@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Automotive",
+    "subheading": "Fuel service excellence with customer feedback",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaTools",
+          "title": "Identify Bugs and Errors",
+          "subtitle": "Catch issues before they affect customers"
+        },
+        {
+          "icon": "FaChartLine",
+          "title": "Act on Insights",
+          "subtitle": "Provide actionable information to stakeholders"
+        }
+      ],
+      "analytics": {
+        "title": "Customer Experience Impact",
+        "subtitle": "+85% faster issue resolution this quarter",
+        "progress": 0.77,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Optimize Every Step of the Automotive Journey",
+    "description": "Alium empowers automotive brands to capture feedback across all touchpoints, act on insights, and deliver exceptional customer experiences both digitally and physically.",
+    "cards": [
+      {
+        "icon": "FaTools",
+        "title": "Identify Bugs and Errors",
+        "subtitle": "Prevent disruptions in customer experience",
+        "description": "Catch costly issues in your digital and physical processes before they impact customer satisfaction and conversions.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Act on Insights",
+        "subtitle": "Empower stakeholders with actionable data",
+        "description": "Deliver targeted insights to the right teams to enable timely decisions that improve service quality and user satisfaction.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaUsers",
+        "title": "Increase Customer Engagement",
+        "subtitle": "Know what customers really want",
+        "description": "Collect and analyze customer feedback to understand expectations and drive engagement throughout the automotive journey.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Automotive Experience Insights",
+    "heading": "Deliver Seamless Customer Journeys",
+    "description": "Alium enables automotive brands to identify pain points, collect valuable feedback, and optimize both digital and physical experiences for maximum customer satisfaction.",
+    "points": [
+      {
+        "title": "Alium for All Digital Assets",
+        "text": "Ensure consistent experiences across all touchpoints by identifying and addressing pain points in digital channels."
+      },
+      {
+        "title": "Feedback Where You Need It",
+        "text": "Deliver insights to the right team members to continuously improve processes and reduce customer service requests."
+      },
+      {
+        "title": "Stay Ahead of the Pack",
+        "text": "Monitor user perspectives and iteratively test improvements to stay competitive in the rapidly evolving automotive landscape."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Automotive dashboard showing customer feedback and digital insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "CREATE MEMORABLE USER EXPERIENCES",
+    "title": "Listen, Respond, and Improve Every Step of the Way",
+    "description": "Automotive brands can ensure customer satisfaction by collecting feedback throughout the journey, analyzing insights, and taking timely action. Alium enables real-time access to customer feedback, allowing brands to enhance experiences, reduce dissatisfaction, and make informed decisions that drive loyalty and service excellence."
+  },
+  "cta": {
+    "heading": "Ready to Drive Automotive Customer Excellence?",
+    "subheading": "Join leading automotive brands using Alium to optimize experiences, act on insights, and deliver exceptional customer journeys.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

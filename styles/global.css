@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+body {
+  font-family: var(--font-roboto), 'Roboto', system-ui, -apple-system, sans-serif;
+}
+
+@theme {
+  --color-primary: #3b37ff;
+
+  /* font size */
+  --text-main-heading: 28px;
+  --text-primary-heading: 24px;
+  --text-secondary-heading: 22px;
+  --text-paragraph: 16px;
+}
+
+/* ✅ Responsive tokens (outside the @theme block) */
+@media (min-width: 768px) {
+  :root {
+    --text-main-heading: 32px;
+    --text-primary-heading: 28px;
+    --text-secondary-heading: 24px;
+    --text-paragraph: 18px;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --text-main-heading: 56px;
+    --text-primary-heading: 44px;
+    --text-secondary-heading: 28px;
+    --text-paragraph: 20px;
+  }
+}
+
+.container {
+  max-width: 1200px;
+  width: 90%;
+  margin: 0 auto;
+  padding: 0;
+}

@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Software, IT, and Technology",
+    "subheading": "Continuously optimize and achieve more",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaHeart",
+          "title": "Drive Brand Loyalty",
+          "subtitle": "Ensure users can accomplish tasks with ease"
+        },
+        {
+          "icon": "FaChartLine",
+          "title": "Fuel Conversions",
+          "subtitle": "Better UX drives more transactions and revenue"
+        }
+      ],
+      "analytics": {
+        "title": "Product Efficiency",
+        "subtitle": "+90% of users complete tasks successfully",
+        "progress": 0.85,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Optimize Every Interaction with Your Technology",
+    "description": "Alium helps software, IT, and technology companies enhance usability, boost conversions, and empower teams to focus on innovation rather than support.",
+    "cards": [
+      {
+        "icon": "FaHeart",
+        "title": "Drive Brand Loyalty",
+        "subtitle": "Ensure seamless task completion",
+        "description": "Provide a frictionless experience that keeps users engaged and coming back, fostering long-term loyalty.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaChartLine",
+        "title": "Fuel Conversions",
+        "subtitle": "Enhance user experience to increase revenue",
+        "description": "Optimize interactions and workflows so that users complete transactions more efficiently, driving growth and revenue.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaTools",
+        "title": "Strengthen Resources",
+        "subtitle": "Reduce support effort and increase productivity",
+        "description": "A well-designed, intuitive product allows your team to focus on innovation rather than constant support tasks.",
+        "linkText": "Learn More",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Tech Experience Insights",
+    "heading": "Deliver Seamless and Efficient Experiences",
+    "description": "Alium enables technology companies to collect actionable feedback, optimize workflows, and enhance usability to continuously improve both user satisfaction and business outcomes.",
+    "points": [
+      {
+        "title": "Build Brand Advocates",
+        "text": "Proactively collect feedback to address potential issues and turn satisfied users into loyal advocates."
+      },
+      {
+        "title": "Increase Revenue",
+        "text": "Focus on both acquisition and retention, ensuring users complete tasks efficiently to drive recurring revenue."
+      },
+      {
+        "title": "Empower Your Team",
+        "text": "Reduce redesign and support costs by evolving products based on real user needs, freeing your team to focus on innovation."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1581091215366-8f929f07ef1b?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Tech dashboard showing software usability and customer insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "CREATE MEMORABLE USER EXPERIENCES",
+    "title": "Stay Ahead of Customer Expectations",
+    "description": "In the fast-moving tech world, usability and continuous feedback are key. Alium helps software and IT companies listen to users, adapt rapidly, and optimize experiences to drive loyalty, efficiency, and business growth."
+  },
+  "cta": {
+    "heading": "Ready to Optimize Your Software Experience?",
+    "subheading": "Join technology leaders using Alium to improve usability, drive conversions, and empower teams.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}

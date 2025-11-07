@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "tag": "Our Solutions",
+    "title": "Alium for Product Teams",
+    "subheading": "Build user-driven digital experiences that keep evolving with your audience.",
+    "buttonText": "Get Free Access",
+    "buttonLink": "https://app.aliumsurvey.com/",
+    "visual": {
+      "cards": [
+        {
+          "icon": "FaKey",
+          "title": "Startups",
+          "subtitle": "Fast & Agile"
+        },
+        {
+          "icon": "FaBuilding",
+          "title": "Enterprise",
+          "subtitle": "Scale & Security"
+        }
+      ],
+      "analytics": {
+        "title": "Growth Analytics",
+        "subtitle": "+127% increase this quarter",
+        "progress": 0.75,
+        "icon": "FaChartBar"
+      },
+      "floatingIcon": {
+        "icon": "FaBolt",
+        "position": "top-right"
+      }
+    }
+  },
+  "businesses": {
+    "title": "Power Up Every Product Decision",
+    "description": "Alium gives product teams the insights they need to move faster, act smarter, and deliver experiences customers truly value.",
+    "cards": [
+      {
+        "icon": "FaChartLine",
+        "title": "Uncover Deep Insights",
+        "subtitle": "Pinpoint friction, validate ideas",
+        "description": "Turn raw feedback into actionable insights that help your team make confident, data-driven improvements.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaExchangeAlt",
+        "title": "Improve Cross-Channel Journeys",
+        "subtitle": "Understand users across touchpoints",
+        "description": "Bring every interaction into one view to deliver smoother, more personalized user experiences across touchpoints.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      },
+      {
+        "icon": "FaUserCheck",
+        "title": "Optimize User Experience",
+        "subtitle": "Listen, learn, improve continuously",
+        "description": "Identify usability gaps, enhance engagement, and boost satisfaction by acting on what your audience actually feels.",
+        "linkText": "Start Here",
+        "linkHref": "/"
+      }
+    ]
+  },
+  "insightData": {
+    "tag": "Data-Driven Improvements",
+    "heading": "Transform Feedback into Product Momentum",
+    "description": "Alium equips your team with context-rich insights to fix faster, innovate boldly, and build products users love.",
+    "points": [
+      {
+        "title": "Understand Context with User Data",
+        "text": "Each piece of feedback includes key metadata — device, browser, IP, and more — helping you trace and solve issues with full visibility."
+      },
+      {
+        "title": "Respond to Critical Bugs Instantly",
+        "text": "Stay ahead with real-time alerts and smart labeling that route urgent issues to the right teams via seamless integrations with tools like JIRA."
+      },
+      {
+        "title": "Empower Your Team with Data Freedom",
+        "text": "Access Alium data through REST APIs, JS APIs, or SDKs to integrate feedback directly into your workflow and power custom analysis."
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1605902711622-cfb43c4437d3?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Product analytics dashboard showing real-time insights"
+    },
+    "reverse": false
+  },
+  "solutionAppeal": {
+    "tag": "BUILD FUTURE-PROOF DIGITAL EXPERIENCES",
+    "title": "Put your users at the heart of every digital decision",
+    "description": "Empower your teams with real-time, user-driven insights to take full control of your digital channels. Move beyond assumptions and uncover what truly works — and what doesn’t — to continuously improve the user experience. Collect feedback directly from users across websites and mobile apps using our lightweight SDKs. Combine this input with detailed user data to identify friction points, prioritize fixes, and optimize performance. Seamlessly integrate Alium with your existing tools to create a complete view of the customer journey — enabling your teams to act quickly, efficiently, and with confidence."
+  },
+  "cta": {
+    "heading": "Ready to Build User-Led Digital Experiences?",
+    "subheading": "Join leading product teams using Alium to uncover friction points, optimize journeys, and build products your users can’t live without.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "https://app.aliumsurvey.com/"
+  }
+}
