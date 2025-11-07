@@ -4,7 +4,7 @@
     "text": "With Alium In-Page, transform your website content into a source of live insights. Collect feedback directly within your pages, discover what resonates, and make every section of your site more engaging and effective.",
     "buttonText": "Improve My Website",
     "buttonLink": "/contact",
-    "image": "/images/alium-inpage-hero.png"
+    "image": "/images/dashboard-new-3.png"
   },
   "offerings": {
     "heading": "Feedback Integrated Into Your Content",
@@ -45,7 +45,7 @@
           }
         ],
         "image": {
-          "src": "/images/inpage-analysis.png",
+          "src": "/images/img-11.jpg",
           "alt": "Detailed In-Page Feedback Analysis"
         },
         "reverse": false
@@ -69,7 +69,7 @@
           }
         ],
         "image": {
-          "src": "/images/inpage-widget.png",
+          "src": "/images/img-12.jpg",
           "alt": "Custom Feedback Widget Design"
         },
         "reverse": true
@@ -93,7 +93,7 @@
           }
         ],
         "image": {
-          "src": "/images/inpage-integration.png",
+          "src": "/images/img-13.jpg",
           "alt": "In-Page Feedback Integration"
         },
         "reverse": false
@@ -117,7 +117,7 @@
           }
         ],
         "image": {
-          "src": "/images/inpage-reporting.png",
+          "src": "/images/img-14.jpg",
           "alt": "In-Page Reporting Dashboard"
         },
         "reverse": true

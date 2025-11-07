@@ -233,8 +233,8 @@
 import Image from "next/image";
 import CallToAction from "@/components/CallToAction";
 import InsightSection from "@/components/InsightSection";
-import { FaCubes, FaChartLine } from "react-icons/fa";
 import Link from "next/link";
+import { iconMap } from "@/lib/iconMap";
 
 const ProductWrapper = ({ data }) => {
     if (!data) return null; // safety check
@@ -333,12 +333,7 @@ const ProductWrapper = ({ data }) => {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                         {offerings.items.map((item, i) => {
                             // Dynamically map icons from react-icons
-                            const Icon =
-                                item.icon === "FaCubes"
-                                    ? FaCubes
-                                    : item.icon === "FaChartLine"
-                                        ? FaChartLine
-                                        : null;
+                            const Icon = iconMap[item.icon];
 
                             return (
                                 <div
@@ -347,7 +342,7 @@ const ProductWrapper = ({ data }) => {
                                 >
                                     {/* Icon */}
                                     <div className="w-16 h-16 bg-primary/10 rounded-xl flex items-center justify-center mb-6">
-                                        {Icon && <Icon className="text-3xl text-primary" />}
+                                        {Icon && Icon}
                                     </div>
 
                                     {/* Content */}

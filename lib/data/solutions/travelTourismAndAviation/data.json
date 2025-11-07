@@ -79,7 +79,7 @@
       }
     ],
     "image": {
-      "src": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "src": "/images/img-21.jpg",
       "alt": "Travel booking dashboard showing user insights and booking analytics"
     },
     "reverse": false

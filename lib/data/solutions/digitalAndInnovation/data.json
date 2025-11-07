@@ -79,7 +79,7 @@
       }
     ],
     "image": {
-      "src": "https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=1200&q=80",
+      "src": "/images/img-19.jpg",
       "alt": "Digital innovation dashboard showcasing real-time customer feedback insights"
     },
     "reverse": false

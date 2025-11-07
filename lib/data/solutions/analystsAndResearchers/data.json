@@ -79,7 +79,7 @@
       }
     ],
     "image": {
-      "src": "https://images.unsplash.com/photo-1517142089942-ba376ce32a2e?auto=format&fit=crop&w=1200&q=80",
+      "src": "/images/img-18.jpg",
       "alt": "Analytics dashboard visualizing customer research insights"
     },
     "reverse": false

@@ -79,7 +79,7 @@
       }
     ],
     "image": {
-      "src": "https://images.unsplash.com/photo-1561414927-6a3b9a6b9c3c?auto=format&fit=crop&w=1200&q=80",
+      "src": "/images/img-20.jpg",
       "alt": "Financial services dashboard showing customer insights and behavior"
     },
     "reverse": false

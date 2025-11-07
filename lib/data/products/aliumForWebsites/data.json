@@ -45,7 +45,7 @@
           }
         ],
         "image": {
-          "src": "/images/feedback-button.png",
+          "src": "/images/img-1.jpg",
           "alt": "Website Feedback Button"
         },
         "reverse": false
@@ -69,7 +69,7 @@
           }
         ],
         "image": {
-          "src": "/images/visual-feedback.png",
+          "src": "/images/img-2.jpg",
           "alt": "Visual Feedback Example"
         },
         "reverse": true
@@ -93,7 +93,7 @@
           }
         ],
         "image": {
-          "src": "/images/intelligent-targeting.png",
+          "src": "/images/img-3.jpg",
           "alt": "Targeted Feedback Surveys"
         },
         "reverse": false
@@ -117,7 +117,7 @@
           }
         ],
         "image": {
-          "src": "/images/easy-setup.png",
+          "src": "/images/img-4.jpg",
           "alt": "Feedback Management Dashboard"
         },
         "reverse": true
@@ -141,7 +141,7 @@
           }
         ],
         "image": {
-          "src": "/images/visual-reporting.png",
+          "src": "/images/img-5.jpg",
           "alt": "Feedback Reporting Dashboard"
         },
         "reverse": false

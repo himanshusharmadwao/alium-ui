@@ -4,7 +4,7 @@
     "text": "Transform every campaign into a two-way conversation. With Alium for Email, collect real-time feedback directly from your subscribers — learn why they’re not clicking, what they love, and how you can optimize every send for better engagement and conversions.",
     "buttonText": "Improve My Emails",
     "buttonLink": "/contact",
-    "image": "/images/alium-email-hero.png"
+    "image": "/images/dashboard-new.jpg"
   },
   "offerings": {
     "heading": "Turn Data Collection Into an Experience",
@@ -45,7 +45,7 @@
           }
         ],
         "image": {
-          "src": "/images/email-customization.png",
+          "src": "/images/img-6.jpg",
           "alt": "Custom Email Feedback Widget"
         },
         "reverse": false
@@ -69,7 +69,7 @@
           }
         ],
         "image": {
-          "src": "/images/email-targeting.png",
+          "src": "/images/img-7.jpg",
           "alt": "Email Targeting Insights"
         },
         "reverse": true
@@ -93,7 +93,7 @@
           }
         ],
         "image": {
-          "src": "/images/easy-email-install.png",
+          "src": "/images/img-8.jpg",
           "alt": "Easy Email Installation"
         },
         "reverse": false
@@ -117,7 +117,7 @@
           }
         ],
         "image": {
-          "src": "/images/email-multi-device.png",
+          "src": "/images/img-new-9.png",
           "alt": "Responsive Email Feedback"
         },
         "reverse": true
@@ -141,7 +141,7 @@
           }
         ],
         "image": {
-          "src": "/images/email-reporting.png",
+          "src": "/images/img-10.png",
           "alt": "Email Feedback Reporting Dashboard"
         },
         "reverse": false
