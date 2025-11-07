@@ -74,7 +74,7 @@ export default function HeaderWrapper() {
                   </div>
                 </Link>
 
-                <Link href="/products/api" className="flex items-start gap-3 hover:bg-gray-50 p-2 rounded-lg transition">
+                <Link href="/coming-soon" className="flex items-start gap-3 hover:bg-gray-50 p-2 rounded-lg transition">
                   <FaCogs className="text-primary mt-1" />
                   <div>
                     <div className="font-medium text-gray-800">Alium API (Coming Soon!)</div>
@@ -90,7 +90,7 @@ export default function HeaderWrapper() {
                   </div>
                 </Link>
 
-                <Link href="/products/integrations" className="flex items-start gap-3 hover:bg-gray-50 p-2 rounded-lg transition">
+                <Link href="/coming-soon" className="flex items-start gap-3 hover:bg-gray-50 p-2 rounded-lg transition">
                   <FaListUl className="text-primary mt-1" />
                   <div>
                     <div className="font-medium text-gray-800">Integrations (Coming Soon!)</div>
@@ -98,7 +98,7 @@ export default function HeaderWrapper() {
                   </div>
                 </Link>
 
-                <Link href="/products/apps" className="flex items-start gap-3 hover:bg-gray-50 p-2 rounded-lg transition">
+                <Link href="/coming-soon" className="flex items-start gap-3 hover:bg-gray-50 p-2 rounded-lg transition">
                   <FaAndroid className="text-primary mt-1" />
                   <div>
                     <div className="font-medium text-gray-800">Alium for Apps (Coming Soon!)</div>

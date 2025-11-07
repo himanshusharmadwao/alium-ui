@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "title": "Our Pricing Policy",
+    "description": "We are giving Free Access of our plateform to first 100 valuable customers. Sign up below to get Free Access."
+  },
+  "featuresSection": {
+    "heading": "Signing Up With Alium Gives You More Than Just Feedback Software.",
+    "features": [
+      "Unlimited feedback items and campaigns",
+      "As many user accounts as you need",
+      "Extensive training and ongoing support",
+      "Dedicated Customer Success Manager",
+      "New product and feature information first"
+    ]
+  },
+  "cta": {
+    "heading": "Join the Team Shaping the Future of Customer Insights",
+    "subheading": "At Alium, we’re on a mission to help businesses truly understand their customers — the why behind every decision. We’re looking for passionate, curious people who want to build tools that make digital experiences more human.",
+    "buttonText": "Explore Careers",
+    "buttonLink": "/careers"
+  }
+}
