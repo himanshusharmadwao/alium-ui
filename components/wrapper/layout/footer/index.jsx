@@ -2,6 +2,7 @@ import React from "react";
 import { BiSolidBarChartAlt2 } from "react-icons/bi";
 import { FaLinkedinIn } from "react-icons/fa";
 import Link from "next/link";
+import Image from "next/image";
 
 const FooterWrapper = () => {
   return (
@@ -12,22 +13,45 @@ const FooterWrapper = () => {
           {/* Logo and tagline */}
           <div>
             <Link href="/" className="flex items-center gap-2 mb-3">
-              <div className="bg-white/20 p-2 rounded-lg">
-                <BiSolidBarChartAlt2 size={18} />
+              <div className="">
+                <Image
+                  src="/logo-new-2.png"
+                  alt="Alium Logo"
+                  width={20}
+                  height={20}
+                  className="rounded-[2px]"
+                />
               </div>
               <span className="font-bold text-paragraph">Alium</span>
             </Link>
-            <p className="text-white/90 text-md">Turn Every Response Into Revenue.</p>
+            <p className="text-white/90 text-md">Turn Every Customer Response Into Meaningful Insights — and Every Insight Into Revenue.</p>
           </div>
 
           {/* Product */}
           <div>
             <h3 className="font-semibold mb-3 text-paragraph">Product</h3>
             <ul className="space-y-2 text-white/90 text-md">
-              <li><Link href="#">Features</Link></li>
-              <li><Link href="#">Pricing</Link></li>
-              <li><Link href="#">Testimonials</Link></li>
-              <li><Link href="#">Integrations</Link></li>
+              <li>
+                <Link href="/product/alium-for-websites">Alium for Websites</Link>
+              </li>
+              <li>
+                <Link href="/pricing-policy">Pricing Policy</Link>
+              </li>
+              <li>
+                <Link href="/product/alium-for-emails">Alium for Email/Link</Link>
+              </li>
+              <li>
+                <Link href="/coming-soon">Alium API (Coming Soon!)</Link>
+              </li>
+              <li>
+                <Link href="/product/alium-in-page">Alium In-page</Link>
+              </li>
+              <li>
+                <Link href="/coming-soon">Integrations (Coming Soon!)</Link>
+              </li>
+              <li>
+                <Link href="/coming-soon">Alium for Apps (Coming Soon!)</Link>
+              </li>
             </ul>
           </div>
 
@@ -35,9 +59,9 @@ const FooterWrapper = () => {
           <div>
             <h3 className="font-semibold mb-3 text-paragraph">Company</h3>
             <ul className="space-y-2 text-white/90 text-md">
-              <li><Link href="#">About</Link></li>
-              <li><Link href="#">Careers</Link></li>
-              <li><Link href="#">Contact</Link></li>
+              <li><Link href="/about">About</Link></li>
+              <li><Link href="/contact">Careers</Link></li>
+              <li><Link href="/contact">Contact</Link></li>
               <li>
                 <Link href="/terms-and-conditions">Terms & Conditions</Link>
               </li>
@@ -49,11 +73,10 @@ const FooterWrapper = () => {
 
           {/* Resources */}
           <div>
-            <h3 className="font-semibold mb-3 text-paragraph">Resources</h3>
+            <h3 className="font-semibold mb-3 text-paragraph">Others</h3>
             <ul className="space-y-2 text-white/90 text-md">
-              <li><Link href="#">Blog</Link></li>
-              <li><Link href="#">Help Center</Link></li>
-              <li><Link href="#">API Docs</Link></li>
+              <li><Link href="/contact">Help Center</Link></li>
+              <li><Link href="/contact">API</Link></li>
             </ul>
           </div>
         </div>
@@ -65,7 +88,7 @@ const FooterWrapper = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-md text-white/80">
           <p>© {new Date().getFullYear()} Alium. All rights reserved.</p>
           <Link
-            href="#"
+            href="https://www.linkedin.com/company/aliumteam"
             className="flex items-center gap-2 text-white/80 hover:text-white transition"
           >
             <FaLinkedinIn size={16} />

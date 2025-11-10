@@ -25,7 +25,7 @@ import {
   FaMicrochip,
   FaPhone,
 } from "react-icons/fa";
-import { BiSolidBarChartAlt2 } from "react-icons/bi";
+import Image from "next/image";
 
 export default function HeaderMobileWrapper() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -35,14 +35,22 @@ export default function HeaderMobileWrapper() {
     setOpenDropdown(openDropdown === menu ? null : menu);
   };
 
+  const handleLinkClick = () => {
+    setMenuOpen(false);
+  };
+
   return (
     <header className="fixed top-0 left-0 w-full z-50 bg-white shadow-lg lg:hidden">
       <div className="flex justify-between items-center px-4 py-3">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
-          <div className="bg-primary text-white rounded-[4px] p-1">
-            <BiSolidBarChartAlt2 size={14} />
-          </div>
+          <Image
+            src="/logo-new.png"
+            alt="Alium Logo"
+            width={20}
+            height={20}
+            className="rounded-[2px]"
+          />
           <span className="font-bold text-gray-900">Alium</span>
         </Link>
 
@@ -71,10 +79,14 @@ export default function HeaderMobileWrapper() {
       >
         {/* Drawer Header */}
         <div className="flex justify-between items-center px-4 py-3 border-b border-gray-200">
-          <Link href="/" className="flex items-center gap-2">
-            <div className="bg-primary text-white rounded-[4px] p-1">
-              <BiSolidBarChartAlt2 size={14} />
-            </div>
+          <Link href="/" onClick={handleLinkClick} className="flex items-center gap-2">
+            <Image
+              src="/logo-new.png"
+              alt="Alium Logo"
+              width={20}
+              height={20}
+              className="rounded-[2px]"
+            />
             <span className="font-bold text-gray-900">Alium</span>
           </Link>
           <button
@@ -88,12 +100,12 @@ export default function HeaderMobileWrapper() {
         {/* Drawer Content */}
         <div className="h-[calc(100vh-60px)] overflow-y-auto">
           <nav className="flex flex-col px-4 py-4 text-gray-800 font-medium">
-            <Link href="/" className="py-2 border-b border-gray-100">
+            <Link href="/" onClick={handleLinkClick} className="py-2 border-b border-gray-100">
               Home
             </Link>
 
             {/* Product Dropdown */}
-            <div className="border-b border-gray-100 py-2">
+            <div className="border-b border-gray-100 py-2" onClick={(e) => e.stopPropagation()}>
               <button
                 onClick={() => toggleDropdown("product")}
                 className="flex justify-between items-center w-full"
@@ -108,25 +120,25 @@ export default function HeaderMobileWrapper() {
 
               {openDropdown === "product" && (
                 <div className="pl-4 mt-2 flex flex-col gap-3 text-sm text-gray-600">
-                  <Link href="#" className="flex items-center gap-2">
+                  <Link href="/product/alium-for-websites" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaGlobe className="text-primary" /> Alium for Websites
                   </Link>
-                  <Link href="#" className="flex items-center gap-2">
+                  <Link href="/pricing-policy" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaTags className="text-primary" /> Pricing Policy
                   </Link>
-                  <Link href="#" className="flex items-center gap-2">
+                  <Link href="/product/alium-for-emails" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaEnvelope className="text-primary" /> Alium for Email/Link
                   </Link>
-                  <Link href="#" className="flex items-center gap-2">
+                  <Link href="/product/alium-in-page" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaAlignLeft className="text-primary" /> Alium In-page
                   </Link>
-                  <Link href="#" className="flex items-center gap-2">
+                  <Link href="/coming-soon" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaCogs className="text-primary" /> Alium API (Coming Soon!)
                   </Link>
-                  <Link href="#" className="flex items-center gap-2">
+                  <Link href="/coming-soon" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaListUl className="text-primary" /> Integrations (Coming Soon!)
                   </Link>
-                  <Link href="#" className="flex items-center gap-2">
+                  <Link href="/coming-soon" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaAndroid className="text-primary" /> Alium for Apps (Coming Soon!)
                   </Link>
                 </div>
@@ -134,7 +146,7 @@ export default function HeaderMobileWrapper() {
             </div>
 
             {/* Solutions Dropdown */}
-            <div className="border-b border-gray-100 py-2">
+            <div className="border-b border-gray-100 py-2" onClick={(e) => e.stopPropagation()}>
               <button
                 onClick={() => toggleDropdown("solutions")}
                 className="flex justify-between items-center w-full"
@@ -151,66 +163,86 @@ export default function HeaderMobileWrapper() {
                 <div className="pl-4 mt-2 text-sm text-gray-600 space-y-5">
                   {/* By Role */}
                   <div>
-                    <div className="font-semibold text-gray-700 mb-2">
-                      By Role
-                    </div>
+                    <div className="font-semibold text-gray-700 mb-2">By Role</div>
                     <ul className="flex flex-col gap-3">
                       <li className="flex items-center gap-2">
                         <FaChartLine className="text-primary" />
-                        <Link href="#">For Product Teams</Link>
+                        <Link href="/solution/product-teams" onClick={handleLinkClick}>
+                          For Product Teams
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaBullseye className="text-primary" />
-                        <Link href="#">For Marketing Teams</Link>
+                        <Link href="/solution/marketing-teams" onClick={handleLinkClick}>
+                          For Marketing Teams
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaUsers className="text-primary" />
-                        <Link href="#">For CX Professionals</Link>
+                        <Link href="/solution/cx-professionals" onClick={handleLinkClick}>
+                          For CX Professionals
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaLightbulb className="text-primary" />
-                        <Link href="#">For Analysts & Researchers</Link>
+                        <Link href="/solution/analysts-and-researchers" onClick={handleLinkClick}>
+                          For Analysts & Researchers
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaCogs className="text-primary" />
-                        <Link href="#">For People & Culture</Link>
+                        <Link href="/solution/people-and-culture" onClick={handleLinkClick}>
+                          For People & Culture
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaGlobe className="text-primary" />
-                        <Link href="#">For Digital & Innovation</Link>
+                        <Link href="/solution/digital-and-innovation" onClick={handleLinkClick}>
+                          For Digital & Innovation
+                        </Link>
                       </li>
                     </ul>
                   </div>
 
                   {/* By Industry */}
                   <div>
-                    <div className="font-semibold text-gray-700 mb-2">
-                      By Industry
-                    </div>
+                    <div className="font-semibold text-gray-700 mb-2">By Industry</div>
                     <ul className="flex flex-col gap-3">
                       <li className="flex items-center gap-2">
                         <FaBuilding className="text-primary" />
-                        <Link href="#">Finance & Insurance</Link>
+                        <Link href="/solution/financial-services" onClick={handleLinkClick}>
+                          Finance & Insurance
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaPlane className="text-primary" />
-                        <Link href="#">Travel, Tourism & Aviation</Link>
+                        <Link href="/solution/travel-tourism-and-aviation" onClick={handleLinkClick}>
+                          Travel, Tourism & Aviation
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaShoppingBag className="text-primary" />
-                        <Link href="#">E-Commerce & Retail</Link>
+                        <Link href="/solution/ecommerce-retail" onClick={handleLinkClick}>
+                          E-Commerce & Retail
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaCar className="text-primary" />
-                        <Link href="#">Automotive</Link>
+                        <Link href="/solution/automotive" onClick={handleLinkClick}>
+                          Automotive
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaMicrochip className="text-primary" />
-                        <Link href="#">Software, IT & Technology</Link>
+                        <Link href="/solution/software-it-and-technology" onClick={handleLinkClick}>
+                          Software, IT & Technology
+                        </Link>
                       </li>
                       <li className="flex items-center gap-2">
                         <FaPhone className="text-primary" />
-                        <Link href="#">Telecom</Link>
+                        <Link href="/solution/telecom" onClick={handleLinkClick}>
+                          Telecom
+                        </Link>
                       </li>
                     </ul>
                   </div>
@@ -219,12 +251,12 @@ export default function HeaderMobileWrapper() {
             </div>
 
             {/* About */}
-            <Link href="/about" className="py-2 border-b border-gray-100">
+            <Link href="/about" onClick={handleLinkClick} className="py-2 border-b border-gray-100">
               About
             </Link>
 
             {/* Resources Dropdown */}
-            <div className="border-b border-gray-100 py-2">
+            <div className="border-b border-gray-100 py-2" onClick={(e) => e.stopPropagation()}>
               <button
                 onClick={() => toggleDropdown("resources")}
                 className="flex justify-between items-center w-full"
@@ -239,10 +271,10 @@ export default function HeaderMobileWrapper() {
 
               {openDropdown === "resources" && (
                 <div className="pl-4 mt-2 flex flex-col gap-3 text-sm text-gray-600">
-                  <Link href="/resources/voice-of-customer" className="flex items-center gap-2">
+                  <Link href="/resources/voice-of-customer" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaMicrochip className="text-primary" /> Voice of Customer (VoC)
                   </Link>
-                  <Link href="/resources/voice-of-customer-glossary" className="flex items-center gap-2">
+                  <Link href="/resources/voice-of-customer-glossary" onClick={handleLinkClick} className="flex items-center gap-2">
                     <FaBuilding className="text-primary" /> VoC Glossary
                   </Link>
                 </div>
@@ -250,7 +282,7 @@ export default function HeaderMobileWrapper() {
             </div>
 
             {/* Contact */}
-            <Link href="/contact" className="py-2 border-b border-gray-100">
+            <Link href="/contact" onClick={handleLinkClick} className="py-2 border-b border-gray-100">
               Contact
             </Link>
 
@@ -258,6 +290,7 @@ export default function HeaderMobileWrapper() {
             <div className="mt-4 pb-8">
               <Link
                 href="https://app.aliumsurvey.com/"
+                onClick={handleLinkClick}
                 className="block text-center bg-[#3b37ff] text-white py-2 rounded-lg font-medium hover:bg-[#2d2adb] transition"
               >
                 Get Free Access

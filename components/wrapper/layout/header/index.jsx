@@ -22,6 +22,7 @@ import {
   FaPhone,
 } from "react-icons/fa";
 import { BiSolidBarChartAlt2 } from "react-icons/bi";
+import Image from "next/image";
 
 export default function HeaderWrapper() {
   return (
@@ -31,8 +32,14 @@ export default function HeaderWrapper() {
       <div className="flex justify-between items-center py-3 px-6">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
-          <div className="bg-primary text-white rounded-[4px] p-1">
-            <BiSolidBarChartAlt2 size={14} />
+          <div className="">
+            <Image
+              src="/logo-new.png"
+              alt="Alium Logo"
+              width={20}
+              height={20}
+              className="rounded-[2px]"
+            />
           </div>
           <span className="font-bold text-paragraph text-gray-900">Alium</span>
         </Link>
