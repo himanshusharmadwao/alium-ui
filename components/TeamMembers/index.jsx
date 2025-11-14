@@ -39,7 +39,7 @@ const TeamMembers = ({ teamMembers }) => {
                             )}
                         </div>
 
-                        <h3 className="text-xl font-bold">{member.name}</h3>
+                        <h3 className="text-paragraph font-bold">{member.name}</h3>
                         <p className="text-gray-500">{member.role}</p>
                     </div>
                 ))}

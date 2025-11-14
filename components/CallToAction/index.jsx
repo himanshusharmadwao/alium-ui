@@ -17,7 +17,7 @@ const CallToAction = ({ data }) => {
         <h2 className="font-extrabold text-white text-secondary-heading">
           {heading}
         </h2>
-        <p className="mt-4 text-white/90 text-paragraph max-w-2xl mx-auto">
+        <p className="mt-4 text-white/90 text-paragraph max-w-3xl mx-auto">
           {subheading}
         </p>
 

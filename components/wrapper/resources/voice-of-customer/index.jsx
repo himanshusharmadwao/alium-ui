@@ -47,7 +47,7 @@ export default function VoiceOfCustomerWrapper({ data }) {
       {/* VoC Advantages Section */}
       <section className="py-20 relative overflow-hidden bg-primary/5">
         <div className="container text-center relative z-10">
-          <h2 className="text-primary-heading font-bold text-charcoal-gray mb-6 leading-tight">
+          <h2 className="text-main-heading font-bold text-charcoal-gray mb-6 leading-tight">
             {voCAdvantage.title}
           </h2>
           <p className="text-paragraph text-gray-600 max-w-5xl mx-auto mb-16">

@@ -21,7 +21,7 @@ const AboutWrapper = ({ data }) => {
       <section className="pt-40 pb-24 text-center">
         <div className="container">
           <span className="text-primary font-semibold">{hero.tag}</span>
-          <h1 className="mt-4 font-extrabold text-main-heading leading-tight max-w-4xl mx-auto">
+          <h1 className="mt-4 font-extrabold text-main-heading leading-tight max-w-5xl mx-auto">
             {hero.title}
           </h1>
           <p
@@ -61,7 +61,7 @@ const AboutWrapper = ({ data }) => {
       {/* Our Values Section */}
       <section className="container">
         <div className="py-16 text-center">
-          <div className="max-w-2xl mx-auto mb-16">
+          <div className="max-w-3xl mx-auto mb-16">
             <h2 className="font-bold text-secondary-heading mb-4">
               {principles.heading}
             </h2>

@@ -27,7 +27,7 @@ export default function SolutionsWrapper({ data }) {
               <div className="inline-flex items-center px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-semibold mb-6">
                 <FaHandSparkles className="mr-2" /> {hero.tag}
               </div>
-              <h1 className="text-6xl lg:text-7xl font-extrabold text-charcoal-gray mb-6 leading-none">
+              <h1 className="text-main-heading font-extrabold text-charcoal-gray mb-6 leading-none">
                 {hero.title.split(" ").slice(0, -1).join(" ")}{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-purple-600">
                   {hero.title.split(" ").slice(-1)}
@@ -106,8 +106,8 @@ export default function SolutionsWrapper({ data }) {
       {/* BUSINESS SECTION */}
       <section className="py-24">
         <div className="container mx-auto px-6">
-          <div className="text-center max-w-2xl mx-auto mb-16">
-            <h2 className="text-4xl font-bold text-charcoal-gray mb-4">
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <h2 className="text-secondary-heading font-bold text-charcoal-gray mb-4">
               {businesses.title}
             </h2>
             <p className="text-gray-600">{businesses.description}</p>
@@ -139,13 +139,13 @@ export default function SolutionsWrapper({ data }) {
 
       {/* SOLUTION APPEAL */}
       <section className="py-16 text-center bg-primary/5">
-        <div className="container max-w-4xl">
+        <div className="container max-w-3xl">
           <div className="inline-flex items-center gap-2 bg-primary/5 text-primary font-semibold px-4 py-2 rounded-full text-sm mb-6">
             {iconMap["FaLightbulb"]}
             <span>{solutionAppeal.tag}</span>
           </div>
 
-          <h2 className="text-primary-heading font-bold text-gray-900 mb-6">
+          <h2 className="text-secondary-heading font-bold text-gray-900 mb-6">
             {solutionAppeal.title}
           </h2>
 
